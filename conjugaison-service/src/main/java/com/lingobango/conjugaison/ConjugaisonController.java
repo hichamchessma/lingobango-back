@@ -14,6 +14,19 @@ public class ConjugaisonController {
     @Autowired
     private ConjugaisonRepository conjugaisonRepository;
 
+    @GetMapping("/api/verbes")
+    public List<String> getVerbes(@RequestParam(value = "q", required = false) String q,
+                                  @RequestParam(defaultValue = "fr") String langue) {
+        List<Conjugaison> all = conjugaisonRepository.findByLangue(langue);
+        List<String> verbes = new ArrayList<>();
+        for (Conjugaison c : all) {
+            if (q == null || c.getVerbe().toLowerCase().startsWith(q.toLowerCase())) {
+                verbes.add(c.getVerbe());
+            }
+        }
+        return verbes;
+    }
+
     @GetMapping("/api/conjugaison")
     public Map<String, Object> getConjugaison(
             @RequestParam(defaultValue = "etre") String verbe,

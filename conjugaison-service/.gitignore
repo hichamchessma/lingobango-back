@@ -1,6 +1,21 @@
 # Fichiers de cache et de build à ignorer
-checksums.lock
+# Gradle/Java build & cache
+.gradle/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.bin
+*.lock
+previous-compilation-data.bin
+executionHistory.bin
+fileHashes.bin
+s.lock
 executionHistory.lock
 fileHashes.lock
 resourceHashesCache.bin
 buildOutputCleanup.lock
+checksums.lock
