@@ -1,0 +1,6 @@
+# Fichiers de cache et de build à ignorer
+checksums.lock
+executionHistory.lock
+fileHashes.lock
+resourceHashesCache.bin
+buildOutputCleanup.lock
