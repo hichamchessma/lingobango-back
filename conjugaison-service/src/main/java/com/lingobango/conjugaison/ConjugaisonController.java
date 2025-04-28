@@ -49,9 +49,24 @@ public class ConjugaisonController {
                 result.put("conjugaisons", conjug);
             }
         } else {
-            // Verbe non trouvé
-            result.put("pronoms", Arrays.asList("Je", "Tu", "Il/Elle/On", "Nous", "Vous", "Ils/Elles"));
+            // Verbe non trouvé : pronoms selon la langue
+            if ("en".equals(langue)) {
+                result.put("pronoms", Arrays.asList("I", "You", "He/She/It", "We", "You", "They"));
+            } else if ("es".equals(langue)) {
+                result.put("pronoms", Arrays.asList("Yo", "Tú", "Él/Ella/Usted", "Nosotros", "Vosotros", "Ellos/Ellas"));
+            } else {
+                result.put("pronoms", Arrays.asList("Je", "Tu", "Il/Elle/On", "Nous", "Vous", "Ils/Elles"));
+            }
             result.put("conjugaisons", Arrays.asList("N/A", "N/A", "N/A", "N/A", "N/A", "N/A"));
+        }
+        // Correction pronom "je" -> "j'" pour le passé composé en français
+        if ("fr".equals(langue) && "passe".equals(temps)) {
+            List<String> pronoms = (List<String>) result.get("pronoms");
+            if (pronoms != null && pronoms.size() > 0 && pronoms.get(0).equalsIgnoreCase("je")) {
+                List<String> pronomsMod = new ArrayList<>(pronoms);
+                pronomsMod.set(0, "j'");
+                result.put("pronoms", pronomsMod);
+            }
         }
         return result;
     }

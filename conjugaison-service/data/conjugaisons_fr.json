@@ -1,0 +1,2915 @@
+{
+  "meta": {
+    "langue": "fr",
+    "pronoms": [
+      "je",
+      "tu",
+      "il/elle/on",
+      "nous",
+      "vous",
+      "ils/elles"
+    ]
+  },
+  "verbes": [
+    {
+      "verbe": "aimer",
+      "conjugaisons": {
+        "present": [
+          "aime",
+          "aimes",
+          "aime",
+          "aimons",
+          "aimez",
+          "aiment"
+        ],
+        "passe": [
+          "ai aimé",
+          "as aimé",
+          "a aimé",
+          "avons aimé",
+          "avez aimé",
+          "ont aimé"
+        ],
+        "futur": [
+          "aimerai",
+          "aimeras",
+          "aimera",
+          "aimerons",
+          "aimerez",
+          "aimeront"
+        ]
+      }
+    },
+    {
+      "verbe": "parler",
+      "conjugaisons": {
+        "present": [
+          "parle",
+          "parles",
+          "parle",
+          "parlons",
+          "parlez",
+          "parlent"
+        ],
+        "passe": [
+          "ai parlé",
+          "as parlé",
+          "a parlé",
+          "avons parlé",
+          "avez parlé",
+          "ont parlé"
+        ],
+        "futur": [
+          "parlerai",
+          "parleras",
+          "parlera",
+          "parlerons",
+          "parlerez",
+          "parleront"
+        ]
+      }
+    },
+    {
+      "verbe": "donner",
+      "conjugaisons": {
+        "present": [
+          "donne",
+          "donnes",
+          "donne",
+          "donnons",
+          "donnez",
+          "donnent"
+        ],
+        "passe": [
+          "ai donné",
+          "as donné",
+          "a donné",
+          "avons donné",
+          "avez donné",
+          "ont donné"
+        ],
+        "futur": [
+          "donnerai",
+          "donneras",
+          "donnera",
+          "donnerons",
+          "donnerez",
+          "donneront"
+        ]
+      }
+    },
+    {
+      "verbe": "jouer",
+      "conjugaisons": {
+        "present": [
+          "joue",
+          "joues",
+          "joue",
+          "jouons",
+          "jouez",
+          "jouent"
+        ],
+        "passe": [
+          "ai joué",
+          "as joué",
+          "a joué",
+          "avons joué",
+          "avez joué",
+          "ont joué"
+        ],
+        "futur": [
+          "jouerai",
+          "joueras",
+          "jouera",
+          "jouerons",
+          "jouerez",
+          "joueront"
+        ]
+      }
+    },
+    {
+      "verbe": "regarder",
+      "conjugaisons": {
+        "present": [
+          "regarde",
+          "regardes",
+          "regarde",
+          "regardons",
+          "regardez",
+          "regardent"
+        ],
+        "passe": [
+          "ai regardé",
+          "as regardé",
+          "a regardé",
+          "avons regardé",
+          "avez regardé",
+          "ont regardé"
+        ],
+        "futur": [
+          "regarderai",
+          "regarderas",
+          "regardera",
+          "regarderons",
+          "regarderez",
+          "regarderont"
+        ]
+      }
+    },
+    {
+      "verbe": "travailler",
+      "conjugaisons": {
+        "present": [
+          "travaille",
+          "travailles",
+          "travaille",
+          "travaillons",
+          "travaillez",
+          "travaillent"
+        ],
+        "passe": [
+          "ai travaillé",
+          "as travaillé",
+          "a travaillé",
+          "avons travaillé",
+          "avez travaillé",
+          "ont travaillé"
+        ],
+        "futur": [
+          "travaillerai",
+          "travailleras",
+          "travaillera",
+          "travaillerons",
+          "travaillerez",
+          "travailleront"
+        ]
+      }
+    },
+    {
+      "verbe": "trouver",
+      "conjugaisons": {
+        "present": [
+          "trouve",
+          "trouves",
+          "trouve",
+          "trouvons",
+          "trouvez",
+          "trouvent"
+        ],
+        "passe": [
+          "ai trouvé",
+          "as trouvé",
+          "a trouvé",
+          "avons trouvé",
+          "avez trouvé",
+          "ont trouvé"
+        ],
+        "futur": [
+          "trouverai",
+          "trouveras",
+          "trouvera",
+          "trouverons",
+          "trouverez",
+          "trouveront"
+        ]
+      }
+    },
+    {
+      "verbe": "penser",
+      "conjugaisons": {
+        "present": [
+          "pense",
+          "penses",
+          "pense",
+          "pensons",
+          "pensez",
+          "pensent"
+        ],
+        "passe": [
+          "ai pensé",
+          "as pensé",
+          "a pensé",
+          "avons pensé",
+          "avez pensé",
+          "ont pensé"
+        ],
+        "futur": [
+          "penserai",
+          "penseras",
+          "pensera",
+          "penserons",
+          "penserez",
+          "penseront"
+        ]
+      }
+    },
+    {
+      "verbe": "aider",
+      "conjugaisons": {
+        "present": [
+          "aide",
+          "aides",
+          "aide",
+          "aidons",
+          "aidez",
+          "aident"
+        ],
+        "passe": [
+          "ai aidé",
+          "as aidé",
+          "a aidé",
+          "avons aidé",
+          "avez aidé",
+          "ont aidé"
+        ],
+        "futur": [
+          "aiderai",
+          "aideras",
+          "aidera",
+          "aiderons",
+          "aiderez",
+          "aideront"
+        ]
+      }
+    },
+    {
+      "verbe": "marcher",
+      "conjugaisons": {
+        "present": [
+          "marche",
+          "marches",
+          "marche",
+          "marchons",
+          "marchez",
+          "marchent"
+        ],
+        "passe": [
+          "ai marché",
+          "as marché",
+          "a marché",
+          "avons marché",
+          "avez marché",
+          "ont marché"
+        ],
+        "futur": [
+          "marcherai",
+          "marcheras",
+          "marchera",
+          "marcherons",
+          "marcherez",
+          "marcheront"
+        ]
+      }
+    },
+    {
+      "verbe": "demander",
+      "conjugaisons": {
+        "present": [
+          "demande",
+          "demandes",
+          "demande",
+          "demandons",
+          "demandez",
+          "demandent"
+        ],
+        "passe": [
+          "ai demandé",
+          "as demandé",
+          "a demandé",
+          "avons demandé",
+          "avez demandé",
+          "ont demandé"
+        ],
+        "futur": [
+          "demanderai",
+          "demanderas",
+          "demandera",
+          "demanderons",
+          "demanderez",
+          "demanderont"
+        ]
+      }
+    },
+    {
+      "verbe": "entrer",
+      "conjugaisons": {
+        "present": [
+          "entre",
+          "entres",
+          "entre",
+          "entrons",
+          "entrez",
+          "entrent"
+        ],
+        "passe": [
+          "ai entré",
+          "as entré",
+          "a entré",
+          "avons entré",
+          "avez entré",
+          "ont entré"
+        ],
+        "futur": [
+          "entrerai",
+          "entreras",
+          "entrera",
+          "entrerons",
+          "entrerez",
+          "entreront"
+        ]
+      }
+    },
+    {
+      "verbe": "arriver",
+      "conjugaisons": {
+        "present": [
+          "arrive",
+          "arrives",
+          "arrive",
+          "arrivons",
+          "arrivez",
+          "arrivent"
+        ],
+        "passe": [
+          "ai arrivé",
+          "as arrivé",
+          "a arrivé",
+          "avons arrivé",
+          "avez arrivé",
+          "ont arrivé"
+        ],
+        "futur": [
+          "arriverai",
+          "arriveras",
+          "arrivera",
+          "arriverons",
+          "arriverez",
+          "arriveront"
+        ]
+      }
+    },
+    {
+      "verbe": "porter",
+      "conjugaisons": {
+        "present": [
+          "porte",
+          "portes",
+          "porte",
+          "portons",
+          "portez",
+          "portent"
+        ],
+        "passe": [
+          "ai porté",
+          "as porté",
+          "a porté",
+          "avons porté",
+          "avez porté",
+          "ont porté"
+        ],
+        "futur": [
+          "porterai",
+          "porteras",
+          "portera",
+          "porterons",
+          "porterez",
+          "porteront"
+        ]
+      }
+    },
+    {
+      "verbe": "commencer",
+      "conjugaisons": {
+        "present": [
+          "commence",
+          "commences",
+          "commence",
+          "commencons",
+          "commencez",
+          "commencent"
+        ],
+        "passe": [
+          "ai commencé",
+          "as commencé",
+          "a commencé",
+          "avons commencé",
+          "avez commencé",
+          "ont commencé"
+        ],
+        "futur": [
+          "commencerai",
+          "commenceras",
+          "commencera",
+          "commencerons",
+          "commencerez",
+          "commenceront"
+        ]
+      }
+    },
+    {
+      "verbe": "écouter",
+      "conjugaisons": {
+        "present": [
+          "écoute",
+          "écoutes",
+          "écoute",
+          "écoutons",
+          "écoutez",
+          "écoutent"
+        ],
+        "passe": [
+          "ai écouté",
+          "as écouté",
+          "a écouté",
+          "avons écouté",
+          "avez écouté",
+          "ont écouté"
+        ],
+        "futur": [
+          "écouterai",
+          "écouteras",
+          "écoutera",
+          "écouterons",
+          "écouterez",
+          "écouteront"
+        ]
+      }
+    },
+    {
+      "verbe": "chercher",
+      "conjugaisons": {
+        "present": [
+          "cherche",
+          "cherches",
+          "cherche",
+          "cherchons",
+          "cherchez",
+          "cherchent"
+        ],
+        "passe": [
+          "ai cherché",
+          "as cherché",
+          "a cherché",
+          "avons cherché",
+          "avez cherché",
+          "ont cherché"
+        ],
+        "futur": [
+          "chercherai",
+          "chercheras",
+          "cherchera",
+          "chercherons",
+          "chercherez",
+          "chercheront"
+        ]
+      }
+    },
+    {
+      "verbe": "laisser",
+      "conjugaisons": {
+        "present": [
+          "laisse",
+          "laisses",
+          "laisse",
+          "laissons",
+          "laissez",
+          "laissent"
+        ],
+        "passe": [
+          "ai laissé",
+          "as laissé",
+          "a laissé",
+          "avons laissé",
+          "avez laissé",
+          "ont laissé"
+        ],
+        "futur": [
+          "laisserai",
+          "laisseras",
+          "laissera",
+          "laisserons",
+          "laisserez",
+          "laisseront"
+        ]
+      }
+    },
+    {
+      "verbe": "tomber",
+      "conjugaisons": {
+        "present": [
+          "tombe",
+          "tombes",
+          "tombe",
+          "tombons",
+          "tombez",
+          "tombent"
+        ],
+        "passe": [
+          "ai tombé",
+          "as tombé",
+          "a tombé",
+          "avons tombé",
+          "avez tombé",
+          "ont tombé"
+        ],
+        "futur": [
+          "tomberai",
+          "tomberas",
+          "tombera",
+          "tomberons",
+          "tomberez",
+          "tomberont"
+        ]
+      }
+    },
+    {
+      "verbe": "fermer",
+      "conjugaisons": {
+        "present": [
+          "ferme",
+          "fermes",
+          "ferme",
+          "fermons",
+          "fermez",
+          "ferment"
+        ],
+        "passe": [
+          "ai fermé",
+          "as fermé",
+          "a fermé",
+          "avons fermé",
+          "avez fermé",
+          "ont fermé"
+        ],
+        "futur": [
+          "fermerai",
+          "fermeras",
+          "fermera",
+          "fermerons",
+          "fermerez",
+          "fermeront"
+        ]
+      }
+    },
+    {
+      "verbe": "montrer",
+      "conjugaisons": {
+        "present": [
+          "montre",
+          "montres",
+          "montre",
+          "montrons",
+          "montrez",
+          "montrent"
+        ],
+        "passe": [
+          "ai montré",
+          "as montré",
+          "a montré",
+          "avons montré",
+          "avez montré",
+          "ont montré"
+        ],
+        "futur": [
+          "montrerai",
+          "montreras",
+          "montrera",
+          "montrerons",
+          "montrerez",
+          "montreront"
+        ]
+      }
+    },
+    {
+      "verbe": "continuer",
+      "conjugaisons": {
+        "present": [
+          "continue",
+          "continues",
+          "continue",
+          "continuons",
+          "continuez",
+          "continuent"
+        ],
+        "passe": [
+          "ai continué",
+          "as continué",
+          "a continué",
+          "avons continué",
+          "avez continué",
+          "ont continué"
+        ],
+        "futur": [
+          "continuerai",
+          "continueras",
+          "continuera",
+          "continuerons",
+          "continuerez",
+          "continueront"
+        ]
+      }
+    },
+    {
+      "verbe": "rentrer",
+      "conjugaisons": {
+        "present": [
+          "rentre",
+          "rentres",
+          "rentre",
+          "rentrons",
+          "rentrez",
+          "rentrent"
+        ],
+        "passe": [
+          "ai rentré",
+          "as rentré",
+          "a rentré",
+          "avons rentré",
+          "avez rentré",
+          "ont rentré"
+        ],
+        "futur": [
+          "rentrerai",
+          "rentreras",
+          "rentrera",
+          "rentrerons",
+          "rentrerez",
+          "rentreront"
+        ]
+      }
+    },
+    {
+      "verbe": "oublier",
+      "conjugaisons": {
+        "present": [
+          "oublie",
+          "oublies",
+          "oublie",
+          "oublions",
+          "oubliez",
+          "oublient"
+        ],
+        "passe": [
+          "ai oublié",
+          "as oublié",
+          "a oublié",
+          "avons oublié",
+          "avez oublié",
+          "ont oublié"
+        ],
+        "futur": [
+          "oublierai",
+          "oublieras",
+          "oubliera",
+          "oublierons",
+          "oublierez",
+          "oublieront"
+        ]
+      }
+    },
+    {
+      "verbe": "laver",
+      "conjugaisons": {
+        "present": [
+          "lave",
+          "laves",
+          "lave",
+          "lavons",
+          "lavez",
+          "lavent"
+        ],
+        "passe": [
+          "ai lavé",
+          "as lavé",
+          "a lavé",
+          "avons lavé",
+          "avez lavé",
+          "ont lavé"
+        ],
+        "futur": [
+          "laverai",
+          "laveras",
+          "lavera",
+          "laverons",
+          "laverez",
+          "laveront"
+        ]
+      }
+    },
+    {
+      "verbe": "appeler",
+      "conjugaisons": {
+        "present": [
+          "appele",
+          "appeles",
+          "appele",
+          "appelons",
+          "appelez",
+          "appelent"
+        ],
+        "passe": [
+          "ai appelé",
+          "as appelé",
+          "a appelé",
+          "avons appelé",
+          "avez appelé",
+          "ont appelé"
+        ],
+        "futur": [
+          "appelerai",
+          "appeleras",
+          "appelera",
+          "appelerons",
+          "appelerez",
+          "appeleront"
+        ]
+      }
+    },
+    {
+      "verbe": "changer",
+      "conjugaisons": {
+        "present": [
+          "change",
+          "changes",
+          "change",
+          "changons",
+          "changez",
+          "changent"
+        ],
+        "passe": [
+          "ai changé",
+          "as changé",
+          "a changé",
+          "avons changé",
+          "avez changé",
+          "ont changé"
+        ],
+        "futur": [
+          "changerai",
+          "changeras",
+          "changera",
+          "changerons",
+          "changerez",
+          "changeront"
+        ]
+      }
+    },
+    {
+      "verbe": "utiliser",
+      "conjugaisons": {
+        "present": [
+          "utilise",
+          "utilises",
+          "utilise",
+          "utilisons",
+          "utilisez",
+          "utilisent"
+        ],
+        "passe": [
+          "ai utilisé",
+          "as utilisé",
+          "a utilisé",
+          "avons utilisé",
+          "avez utilisé",
+          "ont utilisé"
+        ],
+        "futur": [
+          "utiliserai",
+          "utiliseras",
+          "utilisera",
+          "utiliserons",
+          "utiliserez",
+          "utiliseront"
+        ]
+      }
+    },
+    {
+      "verbe": "voyager",
+      "conjugaisons": {
+        "present": [
+          "voyage",
+          "voyages",
+          "voyage",
+          "voyagons",
+          "voyagez",
+          "voyagent"
+        ],
+        "passe": [
+          "ai voyagé",
+          "as voyagé",
+          "a voyagé",
+          "avons voyagé",
+          "avez voyagé",
+          "ont voyagé"
+        ],
+        "futur": [
+          "voyagerai",
+          "voyageras",
+          "voyagera",
+          "voyagerons",
+          "voyagerez",
+          "voyageront"
+        ]
+      }
+    },
+    {
+      "verbe": "pousser",
+      "conjugaisons": {
+        "present": [
+          "pousse",
+          "pousses",
+          "pousse",
+          "poussons",
+          "poussez",
+          "poussent"
+        ],
+        "passe": [
+          "ai poussé",
+          "as poussé",
+          "a poussé",
+          "avons poussé",
+          "avez poussé",
+          "ont poussé"
+        ],
+        "futur": [
+          "pousserai",
+          "pousseras",
+          "poussera",
+          "pousserons",
+          "pousserez",
+          "pousseront"
+        ]
+      }
+    },
+    {
+      "verbe": "casser",
+      "conjugaisons": {
+        "present": [
+          "casse",
+          "casses",
+          "casse",
+          "cassons",
+          "cassez",
+          "cassent"
+        ],
+        "passe": [
+          "ai cassé",
+          "as cassé",
+          "a cassé",
+          "avons cassé",
+          "avez cassé",
+          "ont cassé"
+        ],
+        "futur": [
+          "casserai",
+          "casseras",
+          "cassera",
+          "casserons",
+          "casserez",
+          "casseront"
+        ]
+      }
+    },
+    {
+      "verbe": "sauter",
+      "conjugaisons": {
+        "present": [
+          "saute",
+          "sautes",
+          "saute",
+          "sautons",
+          "sautez",
+          "sautent"
+        ],
+        "passe": [
+          "ai sauté",
+          "as sauté",
+          "a sauté",
+          "avons sauté",
+          "avez sauté",
+          "ont sauté"
+        ],
+        "futur": [
+          "sauterai",
+          "sauteras",
+          "sautera",
+          "sauterons",
+          "sauterez",
+          "sauteront"
+        ]
+      }
+    },
+    {
+      "verbe": "voler",
+      "conjugaisons": {
+        "present": [
+          "vole",
+          "voles",
+          "vole",
+          "volons",
+          "volez",
+          "volent"
+        ],
+        "passe": [
+          "ai volé",
+          "as volé",
+          "a volé",
+          "avons volé",
+          "avez volé",
+          "ont volé"
+        ],
+        "futur": [
+          "volerai",
+          "voleras",
+          "volera",
+          "volerons",
+          "volerez",
+          "voleront"
+        ]
+      }
+    },
+    {
+      "verbe": "décider",
+      "conjugaisons": {
+        "present": [
+          "décide",
+          "décides",
+          "décide",
+          "décidons",
+          "décidez",
+          "décident"
+        ],
+        "passe": [
+          "ai décidé",
+          "as décidé",
+          "a décidé",
+          "avons décidé",
+          "avez décidé",
+          "ont décidé"
+        ],
+        "futur": [
+          "déciderai",
+          "décideras",
+          "décidera",
+          "déciderons",
+          "déciderez",
+          "décideront"
+        ]
+      }
+    },
+    {
+      "verbe": "expliquer",
+      "conjugaisons": {
+        "present": [
+          "explique",
+          "expliques",
+          "explique",
+          "expliquons",
+          "expliquez",
+          "expliquent"
+        ],
+        "passe": [
+          "ai expliqué",
+          "as expliqué",
+          "a expliqué",
+          "avons expliqué",
+          "avez expliqué",
+          "ont expliqué"
+        ],
+        "futur": [
+          "expliquerai",
+          "expliqueras",
+          "expliquera",
+          "expliquerons",
+          "expliquerez",
+          "expliqueront"
+        ]
+      }
+    },
+    {
+      "verbe": "habiter",
+      "conjugaisons": {
+        "present": [
+          "habite",
+          "habites",
+          "habite",
+          "habitons",
+          "habitez",
+          "habitent"
+        ],
+        "passe": [
+          "ai habité",
+          "as habité",
+          "a habité",
+          "avons habité",
+          "avez habité",
+          "ont habité"
+        ],
+        "futur": [
+          "habiterai",
+          "habiteras",
+          "habitera",
+          "habiterons",
+          "habiterez",
+          "habiteront"
+        ]
+      }
+    },
+    {
+      "verbe": "exister",
+      "conjugaisons": {
+        "present": [
+          "existe",
+          "existes",
+          "existe",
+          "existons",
+          "existez",
+          "existent"
+        ],
+        "passe": [
+          "ai existé",
+          "as existé",
+          "a existé",
+          "avons existé",
+          "avez existé",
+          "ont existé"
+        ],
+        "futur": [
+          "existerai",
+          "existeras",
+          "existera",
+          "existerons",
+          "existerez",
+          "existeront"
+        ]
+      }
+    },
+    {
+      "verbe": "étudier",
+      "conjugaisons": {
+        "present": [
+          "étudie",
+          "étudies",
+          "étudie",
+          "étudions",
+          "étudiez",
+          "étudient"
+        ],
+        "passe": [
+          "ai étudié",
+          "as étudié",
+          "a étudié",
+          "avons étudié",
+          "avez étudié",
+          "ont étudié"
+        ],
+        "futur": [
+          "étudierai",
+          "étudieras",
+          "étudiera",
+          "étudierons",
+          "étudierez",
+          "étudieront"
+        ]
+      }
+    },
+    {
+      "verbe": "ajouter",
+      "conjugaisons": {
+        "present": [
+          "ajoute",
+          "ajoutes",
+          "ajoute",
+          "ajoutons",
+          "ajoutez",
+          "ajoutent"
+        ],
+        "passe": [
+          "ai ajouté",
+          "as ajouté",
+          "a ajouté",
+          "avons ajouté",
+          "avez ajouté",
+          "ont ajouté"
+        ],
+        "futur": [
+          "ajouterai",
+          "ajouteras",
+          "ajoutera",
+          "ajouterons",
+          "ajouterez",
+          "ajouteront"
+        ]
+      }
+    },
+    {
+      "verbe": "couper",
+      "conjugaisons": {
+        "present": [
+          "coupe",
+          "coupes",
+          "coupe",
+          "coupons",
+          "coupez",
+          "coupent"
+        ],
+        "passe": [
+          "ai coupé",
+          "as coupé",
+          "a coupé",
+          "avons coupé",
+          "avez coupé",
+          "ont coupé"
+        ],
+        "futur": [
+          "couperai",
+          "couperas",
+          "coupera",
+          "couperons",
+          "couperez",
+          "couperont"
+        ]
+      }
+    },
+    {
+      "verbe": "pleurer",
+      "conjugaisons": {
+        "present": [
+          "pleure",
+          "pleures",
+          "pleure",
+          "pleurons",
+          "pleurez",
+          "pleurent"
+        ],
+        "passe": [
+          "ai pleuré",
+          "as pleuré",
+          "a pleuré",
+          "avons pleuré",
+          "avez pleuré",
+          "ont pleuré"
+        ],
+        "futur": [
+          "pleurerai",
+          "pleureras",
+          "pleurera",
+          "pleurerons",
+          "pleurerez",
+          "pleureront"
+        ]
+      }
+    },
+    {
+      "verbe": "nager",
+      "conjugaisons": {
+        "present": [
+          "nage",
+          "nages",
+          "nage",
+          "nagons",
+          "nagez",
+          "nagent"
+        ],
+        "passe": [
+          "ai nagé",
+          "as nagé",
+          "a nagé",
+          "avons nagé",
+          "avez nagé",
+          "ont nagé"
+        ],
+        "futur": [
+          "nagerai",
+          "nageras",
+          "nagera",
+          "nagerons",
+          "nagerez",
+          "nageront"
+        ]
+      }
+    },
+    {
+      "verbe": "chanter",
+      "conjugaisons": {
+        "present": [
+          "chante",
+          "chantes",
+          "chante",
+          "chantons",
+          "chantez",
+          "chantent"
+        ],
+        "passe": [
+          "ai chanté",
+          "as chanté",
+          "a chanté",
+          "avons chanté",
+          "avez chanté",
+          "ont chanté"
+        ],
+        "futur": [
+          "chanterai",
+          "chanteras",
+          "chantera",
+          "chanterons",
+          "chanterez",
+          "chanteront"
+        ]
+      }
+    },
+    {
+      "verbe": "dessiner",
+      "conjugaisons": {
+        "present": [
+          "dessine",
+          "dessines",
+          "dessine",
+          "dessinons",
+          "dessinez",
+          "dessinent"
+        ],
+        "passe": [
+          "ai dessiné",
+          "as dessiné",
+          "a dessiné",
+          "avons dessiné",
+          "avez dessiné",
+          "ont dessiné"
+        ],
+        "futur": [
+          "dessinerai",
+          "dessineras",
+          "dessinera",
+          "dessinerons",
+          "dessinerez",
+          "dessineront"
+        ]
+      }
+    },
+    {
+      "verbe": "tourner",
+      "conjugaisons": {
+        "present": [
+          "tourne",
+          "tournes",
+          "tourne",
+          "tournons",
+          "tournez",
+          "tournent"
+        ],
+        "passe": [
+          "ai tourné",
+          "as tourné",
+          "a tourné",
+          "avons tourné",
+          "avez tourné",
+          "ont tourné"
+        ],
+        "futur": [
+          "tournerai",
+          "tourneras",
+          "tournera",
+          "tournerons",
+          "tournerez",
+          "tourneront"
+        ]
+      }
+    },
+    {
+      "verbe": "finir",
+      "conjugaisons": {
+        "present": [
+          "finis",
+          "finis",
+          "finit",
+          "finissons",
+          "finissez",
+          "finissent"
+        ],
+        "passe": [
+          "ai fini",
+          "as fini",
+          "a fini",
+          "avons fini",
+          "avez fini",
+          "ont fini"
+        ],
+        "futur": [
+          "finirai",
+          "finiras",
+          "finira",
+          "finirons",
+          "finirez",
+          "finiront"
+        ]
+      }
+    },
+    {
+      "verbe": "choisir",
+      "conjugaisons": {
+        "present": [
+          "choisis",
+          "choisis",
+          "choisit",
+          "choisissons",
+          "choisissez",
+          "choisissent"
+        ],
+        "passe": [
+          "ai choisi",
+          "as choisi",
+          "a choisi",
+          "avons choisi",
+          "avez choisi",
+          "ont choisi"
+        ],
+        "futur": [
+          "choisirai",
+          "choisiras",
+          "choisira",
+          "choisirons",
+          "choisirez",
+          "choisiront"
+        ]
+      }
+    },
+    {
+      "verbe": "grandir",
+      "conjugaisons": {
+        "present": [
+          "grandis",
+          "grandis",
+          "grandit",
+          "grandissons",
+          "grandissez",
+          "grandissent"
+        ],
+        "passe": [
+          "ai grandi",
+          "as grandi",
+          "a grandi",
+          "avons grandi",
+          "avez grandi",
+          "ont grandi"
+        ],
+        "futur": [
+          "grandirai",
+          "grandiras",
+          "grandira",
+          "grandirons",
+          "grandirez",
+          "grandiront"
+        ]
+      }
+    },
+    {
+      "verbe": "réussir",
+      "conjugaisons": {
+        "present": [
+          "réussis",
+          "réussis",
+          "réussit",
+          "réussissons",
+          "réussissez",
+          "réussissent"
+        ],
+        "passe": [
+          "ai réussi",
+          "as réussi",
+          "a réussi",
+          "avons réussi",
+          "avez réussi",
+          "ont réussi"
+        ],
+        "futur": [
+          "réussirai",
+          "réussiras",
+          "réussira",
+          "réussirons",
+          "réussirez",
+          "réussiront"
+        ]
+      }
+    },
+    {
+      "verbe": "réfléchir",
+      "conjugaisons": {
+        "present": [
+          "réfléchis",
+          "réfléchis",
+          "réfléchit",
+          "réfléchissons",
+          "réfléchissez",
+          "réfléchissent"
+        ],
+        "passe": [
+          "ai réfléchi",
+          "as réfléchi",
+          "a réfléchi",
+          "avons réfléchi",
+          "avez réfléchi",
+          "ont réfléchi"
+        ],
+        "futur": [
+          "réfléchirai",
+          "réfléchiras",
+          "réfléchira",
+          "réfléchirons",
+          "réfléchirez",
+          "réfléchiront"
+        ]
+      }
+    },
+    {
+      "verbe": "rougir",
+      "conjugaisons": {
+        "present": [
+          "rougis",
+          "rougis",
+          "rougit",
+          "rougissons",
+          "rougissez",
+          "rougissent"
+        ],
+        "passe": [
+          "ai rougi",
+          "as rougi",
+          "a rougi",
+          "avons rougi",
+          "avez rougi",
+          "ont rougi"
+        ],
+        "futur": [
+          "rougirai",
+          "rougiras",
+          "rougira",
+          "rougirons",
+          "rougirez",
+          "rougiront"
+        ]
+      }
+    },
+    {
+      "verbe": "grossir",
+      "conjugaisons": {
+        "present": [
+          "grossis",
+          "grossis",
+          "grossit",
+          "grossissons",
+          "grossissez",
+          "grossissent"
+        ],
+        "passe": [
+          "ai grossi",
+          "as grossi",
+          "a grossi",
+          "avons grossi",
+          "avez grossi",
+          "ont grossi"
+        ],
+        "futur": [
+          "grossirai",
+          "grossiras",
+          "grossira",
+          "grossirons",
+          "grossirez",
+          "grossiront"
+        ]
+      }
+    },
+    {
+      "verbe": "bâtir",
+      "conjugaisons": {
+        "present": [
+          "bâtis",
+          "bâtis",
+          "bâtit",
+          "bâtissons",
+          "bâtissez",
+          "bâtissent"
+        ],
+        "passe": [
+          "ai bâti",
+          "as bâti",
+          "a bâti",
+          "avons bâti",
+          "avez bâti",
+          "ont bâti"
+        ],
+        "futur": [
+          "bâtirai",
+          "bâtiras",
+          "bâtira",
+          "bâtirons",
+          "bâtirez",
+          "bâtiront"
+        ]
+      }
+    },
+    {
+      "verbe": "obéir",
+      "conjugaisons": {
+        "present": [
+          "obéis",
+          "obéis",
+          "obéit",
+          "obéissons",
+          "obéissez",
+          "obéissent"
+        ],
+        "passe": [
+          "ai obéi",
+          "as obéi",
+          "a obéi",
+          "avons obéi",
+          "avez obéi",
+          "ont obéi"
+        ],
+        "futur": [
+          "obéirai",
+          "obéiras",
+          "obéira",
+          "obéirons",
+          "obéirez",
+          "obéiront"
+        ]
+      }
+    },
+    {
+      "verbe": "punir",
+      "conjugaisons": {
+        "present": [
+          "punis",
+          "punis",
+          "punit",
+          "punissons",
+          "punissez",
+          "punissent"
+        ],
+        "passe": [
+          "ai puni",
+          "as puni",
+          "a puni",
+          "avons puni",
+          "avez puni",
+          "ont puni"
+        ],
+        "futur": [
+          "punirai",
+          "puniras",
+          "punira",
+          "punirons",
+          "punirez",
+          "puniront"
+        ]
+      }
+    },
+    {
+      "verbe": "agir",
+      "conjugaisons": {
+        "present": [
+          "agis",
+          "agis",
+          "agit",
+          "agissons",
+          "agissez",
+          "agissent"
+        ],
+        "passe": [
+          "ai agi",
+          "as agi",
+          "a agi",
+          "avons agi",
+          "avez agi",
+          "ont agi"
+        ],
+        "futur": [
+          "agirai",
+          "agiras",
+          "agira",
+          "agirons",
+          "agirez",
+          "agiront"
+        ]
+      }
+    },
+    {
+      "verbe": "remplir",
+      "conjugaisons": {
+        "present": [
+          "remplis",
+          "remplis",
+          "remplit",
+          "remplissons",
+          "remplissez",
+          "remplissent"
+        ],
+        "passe": [
+          "ai rempli",
+          "as rempli",
+          "a rempli",
+          "avons rempli",
+          "avez rempli",
+          "ont rempli"
+        ],
+        "futur": [
+          "remplirai",
+          "rempliras",
+          "remplira",
+          "remplirons",
+          "remplirez",
+          "rempliront"
+        ]
+      }
+    },
+    {
+      "verbe": "ralentir",
+      "conjugaisons": {
+        "present": [
+          "ralentis",
+          "ralentis",
+          "ralentit",
+          "ralentissons",
+          "ralentissez",
+          "ralentissent"
+        ],
+        "passe": [
+          "ai ralenti",
+          "as ralenti",
+          "a ralenti",
+          "avons ralenti",
+          "avez ralenti",
+          "ont ralenti"
+        ],
+        "futur": [
+          "ralentirai",
+          "ralentiras",
+          "ralentira",
+          "ralentirons",
+          "ralentirez",
+          "ralentiront"
+        ]
+      }
+    },
+    {
+      "verbe": "nourrir",
+      "conjugaisons": {
+        "present": [
+          "nourris",
+          "nourris",
+          "nourrit",
+          "nourrissons",
+          "nourrissez",
+          "nourrissent"
+        ],
+        "passe": [
+          "ai nourri",
+          "as nourri",
+          "a nourri",
+          "avons nourri",
+          "avez nourri",
+          "ont nourri"
+        ],
+        "futur": [
+          "nourrirai",
+          "nourriras",
+          "nourrira",
+          "nourrirons",
+          "nourrirez",
+          "nourriront"
+        ]
+      }
+    },
+    {
+      "verbe": "établir",
+      "conjugaisons": {
+        "present": [
+          "établis",
+          "établis",
+          "établit",
+          "établissons",
+          "établissez",
+          "établissent"
+        ],
+        "passe": [
+          "ai établi",
+          "as établi",
+          "a établi",
+          "avons établi",
+          "avez établi",
+          "ont établi"
+        ],
+        "futur": [
+          "établirai",
+          "établiras",
+          "établira",
+          "établirons",
+          "établirez",
+          "établiront"
+        ]
+      }
+    },
+    {
+      "verbe": "vieillir",
+      "conjugaisons": {
+        "present": [
+          "vieillis",
+          "vieillis",
+          "vieillit",
+          "vieillissons",
+          "vieillissez",
+          "vieillissent"
+        ],
+        "passe": [
+          "ai vieilli",
+          "as vieilli",
+          "a vieilli",
+          "avons vieilli",
+          "avez vieilli",
+          "ont vieilli"
+        ],
+        "futur": [
+          "vieillirai",
+          "vieilliras",
+          "vieillira",
+          "vieillirons",
+          "vieillirez",
+          "vieilliront"
+        ]
+      }
+    },
+    {
+      "verbe": "applaudir",
+      "conjugaisons": {
+        "present": [
+          "applaudis",
+          "applaudis",
+          "applaudit",
+          "applaudissons",
+          "applaudissez",
+          "applaudissent"
+        ],
+        "passe": [
+          "ai applaudi",
+          "as applaudi",
+          "a applaudi",
+          "avons applaudi",
+          "avez applaudi",
+          "ont applaudi"
+        ],
+        "futur": [
+          "applaudirai",
+          "applaudiras",
+          "applaudira",
+          "applaudirons",
+          "applaudirez",
+          "applaudiront"
+        ]
+      }
+    },
+    {
+      "verbe": "atterrir",
+      "conjugaisons": {
+        "present": [
+          "atterris",
+          "atterris",
+          "atterrit",
+          "atterrissons",
+          "atterrissez",
+          "atterrissent"
+        ],
+        "passe": [
+          "ai atterri",
+          "as atterri",
+          "a atterri",
+          "avons atterri",
+          "avez atterri",
+          "ont atterri"
+        ],
+        "futur": [
+          "atterrirai",
+          "atterriras",
+          "atterrira",
+          "atterrirons",
+          "atterrirez",
+          "atterriront"
+        ]
+      }
+    },
+    {
+      "verbe": "guérir",
+      "conjugaisons": {
+        "present": [
+          "guéris",
+          "guéris",
+          "guérit",
+          "guérissons",
+          "guérissez",
+          "guérissent"
+        ],
+        "passe": [
+          "ai guéri",
+          "as guéri",
+          "a guéri",
+          "avons guéri",
+          "avez guéri",
+          "ont guéri"
+        ],
+        "futur": [
+          "guérirai",
+          "guériras",
+          "guérira",
+          "guérirons",
+          "guérirez",
+          "guériront"
+        ]
+      }
+    },
+    {
+      "verbe": "investir",
+      "conjugaisons": {
+        "present": [
+          "investis",
+          "investis",
+          "investit",
+          "investissons",
+          "investissez",
+          "investissent"
+        ],
+        "passe": [
+          "ai investi",
+          "as investi",
+          "a investi",
+          "avons investi",
+          "avez investi",
+          "ont investi"
+        ],
+        "futur": [
+          "investirai",
+          "investiras",
+          "investira",
+          "investirons",
+          "investirez",
+          "investiront"
+        ]
+      }
+    },
+    {
+      "verbe": "vendre",
+      "conjugaisons": {
+        "present": [
+          "vends",
+          "vends",
+          "vend",
+          "vendons",
+          "vendez",
+          "vendent"
+        ],
+        "passe": [
+          "ai vendu",
+          "as vendu",
+          "a vendu",
+          "avons vendu",
+          "avez vendu",
+          "ont vendu"
+        ],
+        "futur": [
+          "vendrai",
+          "vendras",
+          "vendra",
+          "vendrons",
+          "vendrez",
+          "vendront"
+        ]
+      }
+    },
+    {
+      "verbe": "attendre",
+      "conjugaisons": {
+        "present": [
+          "attends",
+          "attends",
+          "attend",
+          "attendons",
+          "attendez",
+          "attendent"
+        ],
+        "passe": [
+          "ai attendu",
+          "as attendu",
+          "a attendu",
+          "avons attendu",
+          "avez attendu",
+          "ont attendu"
+        ],
+        "futur": [
+          "attendrai",
+          "attendras",
+          "attendra",
+          "attendrons",
+          "attendrez",
+          "attendront"
+        ]
+      }
+    },
+    {
+      "verbe": "entendre",
+      "conjugaisons": {
+        "present": [
+          "entends",
+          "entends",
+          "entend",
+          "entendons",
+          "entendez",
+          "entendent"
+        ],
+        "passe": [
+          "ai entendu",
+          "as entendu",
+          "a entendu",
+          "avons entendu",
+          "avez entendu",
+          "ont entendu"
+        ],
+        "futur": [
+          "entendrai",
+          "entendras",
+          "entendra",
+          "entendrons",
+          "entendrez",
+          "entendront"
+        ]
+      }
+    },
+    {
+      "verbe": "répondre",
+      "conjugaisons": {
+        "present": [
+          "réponds",
+          "réponds",
+          "répond",
+          "répondons",
+          "répondez",
+          "répondent"
+        ],
+        "passe": [
+          "ai répondu",
+          "as répondu",
+          "a répondu",
+          "avons répondu",
+          "avez répondu",
+          "ont répondu"
+        ],
+        "futur": [
+          "répondrai",
+          "répondras",
+          "répondra",
+          "répondrons",
+          "répondrez",
+          "répondront"
+        ]
+      }
+    },
+    {
+      "verbe": "perdre",
+      "conjugaisons": {
+        "present": [
+          "perds",
+          "perds",
+          "perd",
+          "perdons",
+          "perdez",
+          "perdent"
+        ],
+        "passe": [
+          "ai perdu",
+          "as perdu",
+          "a perdu",
+          "avons perdu",
+          "avez perdu",
+          "ont perdu"
+        ],
+        "futur": [
+          "perdrai",
+          "perdras",
+          "perdra",
+          "perdrons",
+          "perdrez",
+          "perdront"
+        ]
+      }
+    },
+    {
+      "verbe": "descendre",
+      "conjugaisons": {
+        "present": [
+          "descends",
+          "descends",
+          "descend",
+          "descendons",
+          "descendez",
+          "descendent"
+        ],
+        "passe": [
+          "ai descendu",
+          "as descendu",
+          "a descendu",
+          "avons descendu",
+          "avez descendu",
+          "ont descendu"
+        ],
+        "futur": [
+          "descendrai",
+          "descendras",
+          "descendra",
+          "descendrons",
+          "descendrez",
+          "descendront"
+        ]
+      }
+    },
+    {
+      "verbe": "rendre",
+      "conjugaisons": {
+        "present": [
+          "rends",
+          "rends",
+          "rend",
+          "rendons",
+          "rendez",
+          "rendent"
+        ],
+        "passe": [
+          "ai rendu",
+          "as rendu",
+          "a rendu",
+          "avons rendu",
+          "avez rendu",
+          "ont rendu"
+        ],
+        "futur": [
+          "rendrai",
+          "rendras",
+          "rendra",
+          "rendrons",
+          "rendrez",
+          "rendront"
+        ]
+      }
+    },
+    {
+      "verbe": "fondre",
+      "conjugaisons": {
+        "present": [
+          "fonds",
+          "fonds",
+          "fond",
+          "fondons",
+          "fondez",
+          "fondent"
+        ],
+        "passe": [
+          "ai fondu",
+          "as fondu",
+          "a fondu",
+          "avons fondu",
+          "avez fondu",
+          "ont fondu"
+        ],
+        "futur": [
+          "fondrai",
+          "fondras",
+          "fondra",
+          "fondrons",
+          "fondrez",
+          "fondront"
+        ]
+      }
+    },
+    {
+      "verbe": "défendre",
+      "conjugaisons": {
+        "present": [
+          "défends",
+          "défends",
+          "défend",
+          "défendons",
+          "défendez",
+          "défendent"
+        ],
+        "passe": [
+          "ai défendu",
+          "as défendu",
+          "a défendu",
+          "avons défendu",
+          "avez défendu",
+          "ont défendu"
+        ],
+        "futur": [
+          "défendrai",
+          "défendras",
+          "défendra",
+          "défendrons",
+          "défendrez",
+          "défendront"
+        ]
+      }
+    },
+    {
+      "verbe": "prétendre",
+      "conjugaisons": {
+        "present": [
+          "prétends",
+          "prétends",
+          "prétend",
+          "prétendons",
+          "prétendez",
+          "prétendent"
+        ],
+        "passe": [
+          "ai prétendu",
+          "as prétendu",
+          "a prétendu",
+          "avons prétendu",
+          "avez prétendu",
+          "ont prétendu"
+        ],
+        "futur": [
+          "prétendrai",
+          "prétendras",
+          "prétendra",
+          "prétendrons",
+          "prétendrez",
+          "prétendront"
+        ]
+      }
+    },
+    {
+      "verbe": "prendre",
+      "conjugaisons": {
+        "present": [
+          "prends",
+          "prends",
+          "prend",
+          "prendons",
+          "prendez",
+          "prendent"
+        ],
+        "passe": [
+          "ai prendu",
+          "as prendu",
+          "a prendu",
+          "avons prendu",
+          "avez prendu",
+          "ont prendu"
+        ],
+        "futur": [
+          "prendrai",
+          "prendras",
+          "prendra",
+          "prendrons",
+          "prendrez",
+          "prendront"
+        ]
+      }
+    },
+    {
+      "verbe": "apprendre",
+      "conjugaisons": {
+        "present": [
+          "apprends",
+          "apprends",
+          "apprend",
+          "apprendons",
+          "apprendez",
+          "apprendent"
+        ],
+        "passe": [
+          "ai apprendu",
+          "as apprendu",
+          "a apprendu",
+          "avons apprendu",
+          "avez apprendu",
+          "ont apprendu"
+        ],
+        "futur": [
+          "apprendrai",
+          "apprendras",
+          "apprendra",
+          "apprendrons",
+          "apprendrez",
+          "apprendront"
+        ]
+      }
+    },
+    {
+      "verbe": "comprendre",
+      "conjugaisons": {
+        "present": [
+          "comprends",
+          "comprends",
+          "comprend",
+          "comprendons",
+          "comprendez",
+          "comprendent"
+        ],
+        "passe": [
+          "ai comprendu",
+          "as comprendu",
+          "a comprendu",
+          "avons comprendu",
+          "avez comprendu",
+          "ont comprendu"
+        ],
+        "futur": [
+          "comprendrai",
+          "comprendras",
+          "comprendra",
+          "comprendrons",
+          "comprendrez",
+          "comprendront"
+        ]
+      }
+    },
+    {
+      "verbe": "surprendre",
+      "conjugaisons": {
+        "present": [
+          "surprends",
+          "surprends",
+          "surprend",
+          "surprendons",
+          "surprendez",
+          "surprendent"
+        ],
+        "passe": [
+          "ai surprendu",
+          "as surprendu",
+          "a surprendu",
+          "avons surprendu",
+          "avez surprendu",
+          "ont surprendu"
+        ],
+        "futur": [
+          "surprendrai",
+          "surprendras",
+          "surprendra",
+          "surprendrons",
+          "surprendrez",
+          "surprendront"
+        ]
+      }
+    },
+    {
+      "verbe": "mettre",
+      "conjugaisons": {
+        "present": [
+          "metts",
+          "metts",
+          "mett",
+          "mettons",
+          "mettez",
+          "mettent"
+        ],
+        "passe": [
+          "ai mettu",
+          "as mettu",
+          "a mettu",
+          "avons mettu",
+          "avez mettu",
+          "ont mettu"
+        ],
+        "futur": [
+          "mettrai",
+          "mettras",
+          "mettra",
+          "mettrons",
+          "mettrez",
+          "mettront"
+        ]
+      }
+    },
+    {
+      "verbe": "permettre",
+      "conjugaisons": {
+        "present": [
+          "permetts",
+          "permetts",
+          "permett",
+          "permettons",
+          "permettez",
+          "permettent"
+        ],
+        "passe": [
+          "ai permettu",
+          "as permettu",
+          "a permettu",
+          "avons permettu",
+          "avez permettu",
+          "ont permettu"
+        ],
+        "futur": [
+          "permettrai",
+          "permettras",
+          "permettra",
+          "permettrons",
+          "permettrez",
+          "permettront"
+        ]
+      }
+    },
+    {
+      "verbe": "promettre",
+      "conjugaisons": {
+        "present": [
+          "prometts",
+          "prometts",
+          "promett",
+          "promettons",
+          "promettez",
+          "promettent"
+        ],
+        "passe": [
+          "ai promettu",
+          "as promettu",
+          "a promettu",
+          "avons promettu",
+          "avez promettu",
+          "ont promettu"
+        ],
+        "futur": [
+          "promettrai",
+          "promettras",
+          "promettra",
+          "promettrons",
+          "promettrez",
+          "promettront"
+        ]
+      }
+    },
+    {
+      "verbe": "battre",
+      "conjugaisons": {
+        "present": [
+          "batts",
+          "batts",
+          "batt",
+          "battons",
+          "battez",
+          "battent"
+        ],
+        "passe": [
+          "ai battu",
+          "as battu",
+          "a battu",
+          "avons battu",
+          "avez battu",
+          "ont battu"
+        ],
+        "futur": [
+          "battrai",
+          "battras",
+          "battra",
+          "battrons",
+          "battrez",
+          "battront"
+        ]
+      }
+    },
+    {
+      "verbe": "boire",
+      "conjugaisons": {
+        "present": [
+          "bois",
+          "bois",
+          "boi",
+          "boions",
+          "boiez",
+          "boient"
+        ],
+        "passe": [
+          "ai boiu",
+          "as boiu",
+          "a boiu",
+          "avons boiu",
+          "avez boiu",
+          "ont boiu"
+        ],
+        "futur": [
+          "boirai",
+          "boiras",
+          "boira",
+          "boirons",
+          "boirez",
+          "boiront"
+        ]
+      }
+    },
+    {
+      "verbe": "connaître",
+      "conjugaisons": {
+        "present": [
+          "connaîts",
+          "connaîts",
+          "connaît",
+          "connaîtons",
+          "connaîtez",
+          "connaîtent"
+        ],
+        "passe": [
+          "ai connaîtu",
+          "as connaîtu",
+          "a connaîtu",
+          "avons connaîtu",
+          "avez connaîtu",
+          "ont connaîtu"
+        ],
+        "futur": [
+          "connaîtrai",
+          "connaîtras",
+          "connaîtra",
+          "connaîtrons",
+          "connaîtrez",
+          "connaîtront"
+        ]
+      }
+    },
+    {
+      "verbe": "reconnaître",
+      "conjugaisons": {
+        "present": [
+          "reconnaîts",
+          "reconnaîts",
+          "reconnaît",
+          "reconnaîtons",
+          "reconnaîtez",
+          "reconnaîtent"
+        ],
+        "passe": [
+          "ai reconnaîtu",
+          "as reconnaîtu",
+          "a reconnaîtu",
+          "avons reconnaîtu",
+          "avez reconnaîtu",
+          "ont reconnaîtu"
+        ],
+        "futur": [
+          "reconnaîtrai",
+          "reconnaîtras",
+          "reconnaîtra",
+          "reconnaîtrons",
+          "reconnaîtrez",
+          "reconnaîtront"
+        ]
+      }
+    },
+    {
+      "verbe": "disparaître",
+      "conjugaisons": {
+        "present": [
+          "disparaîts",
+          "disparaîts",
+          "disparaît",
+          "disparaîtons",
+          "disparaîtez",
+          "disparaîtent"
+        ],
+        "passe": [
+          "ai disparaîtu",
+          "as disparaîtu",
+          "a disparaîtu",
+          "avons disparaîtu",
+          "avez disparaîtu",
+          "ont disparaîtu"
+        ],
+        "futur": [
+          "disparaîtrai",
+          "disparaîtras",
+          "disparaîtra",
+          "disparaîtrons",
+          "disparaîtrez",
+          "disparaîtront"
+        ]
+      }
+    },
+    {
+      "verbe": "apparaître",
+      "conjugaisons": {
+        "present": [
+          "apparaîts",
+          "apparaîts",
+          "apparaît",
+          "apparaîtons",
+          "apparaîtez",
+          "apparaîtent"
+        ],
+        "passe": [
+          "ai apparaîtu",
+          "as apparaîtu",
+          "a apparaîtu",
+          "avons apparaîtu",
+          "avez apparaîtu",
+          "ont apparaîtu"
+        ],
+        "futur": [
+          "apparaîtrai",
+          "apparaîtras",
+          "apparaîtra",
+          "apparaîtrons",
+          "apparaîtrez",
+          "apparaîtront"
+        ]
+      }
+    },
+    {
+      "verbe": "vivre",
+      "conjugaisons": {
+        "present": [
+          "vivs",
+          "vivs",
+          "viv",
+          "vivons",
+          "vivez",
+          "vivent"
+        ],
+        "passe": [
+          "ai vivu",
+          "as vivu",
+          "a vivu",
+          "avons vivu",
+          "avez vivu",
+          "ont vivu"
+        ],
+        "futur": [
+          "vivrai",
+          "vivras",
+          "vivra",
+          "vivrons",
+          "vivrez",
+          "vivront"
+        ]
+      }
+    },
+    {
+      "verbe": "survivre",
+      "conjugaisons": {
+        "present": [
+          "survivs",
+          "survivs",
+          "surviv",
+          "survivons",
+          "survivez",
+          "survivent"
+        ],
+        "passe": [
+          "ai survivu",
+          "as survivu",
+          "a survivu",
+          "avons survivu",
+          "avez survivu",
+          "ont survivu"
+        ],
+        "futur": [
+          "survivrai",
+          "survivras",
+          "survivra",
+          "survivrons",
+          "survivrez",
+          "survivront"
+        ]
+      }
+    },
+    {
+      "verbe": "lire",
+      "conjugaisons": {
+        "present": [
+          "lis",
+          "lis",
+          "li",
+          "lions",
+          "liez",
+          "lient"
+        ],
+        "passe": [
+          "ai liu",
+          "as liu",
+          "a liu",
+          "avons liu",
+          "avez liu",
+          "ont liu"
+        ],
+        "futur": [
+          "lirai",
+          "liras",
+          "lira",
+          "lirons",
+          "lirez",
+          "liront"
+        ]
+      }
+    },
+    {
+      "verbe": "dire",
+      "conjugaisons": {
+        "present": [
+          "dis",
+          "dis",
+          "dit",
+          "disons",
+          "dites",
+          "disent"
+        ],
+        "passe": [
+          "ai dit",
+          "as dit",
+          "a dit",
+          "avons dit",
+          "avez dit",
+          "ont dit"
+        ],
+        "futur": [
+          "dirai",
+          "diras",
+          "dira",
+          "dirons",
+          "direz",
+          "diront"
+        ]
+      }
+    },
+    {
+      "verbe": "écrire",
+      "conjugaisons": {
+        "present": [
+          "écris",
+          "écris",
+          "écri",
+          "écrions",
+          "écriez",
+          "écrient"
+        ],
+        "passe": [
+          "ai écriu",
+          "as écriu",
+          "a écriu",
+          "avons écriu",
+          "avez écriu",
+          "ont écriu"
+        ],
+        "futur": [
+          "écrirai",
+          "écriras",
+          "écrira",
+          "écrirons",
+          "écrirez",
+          "écriront"
+        ]
+      }
+    },
+    {
+      "verbe": "conduire",
+      "conjugaisons": {
+        "present": [
+          "conduis",
+          "conduis",
+          "condui",
+          "conduions",
+          "conduiez",
+          "conduient"
+        ],
+        "passe": [
+          "ai conduiu",
+          "as conduiu",
+          "a conduiu",
+          "avons conduiu",
+          "avez conduiu",
+          "ont conduiu"
+        ],
+        "futur": [
+          "conduirai",
+          "conduiras",
+          "conduira",
+          "conduirons",
+          "conduirez",
+          "conduiront"
+        ]
+      }
+    },
+    {
+      "verbe": "produire",
+      "conjugaisons": {
+        "present": [
+          "produis",
+          "produis",
+          "produi",
+          "produions",
+          "produiez",
+          "produient"
+        ],
+        "passe": [
+          "ai produiu",
+          "as produiu",
+          "a produiu",
+          "avons produiu",
+          "avez produiu",
+          "ont produiu"
+        ],
+        "futur": [
+          "produirai",
+          "produiras",
+          "produira",
+          "produirons",
+          "produirez",
+          "produiront"
+        ]
+      }
+    },
+    {
+      "verbe": "traduire",
+      "conjugaisons": {
+        "present": [
+          "traduis",
+          "traduis",
+          "tradui",
+          "traduions",
+          "traduiez",
+          "traduient"
+        ],
+        "passe": [
+          "ai traduiu",
+          "as traduiu",
+          "a traduiu",
+          "avons traduiu",
+          "avez traduiu",
+          "ont traduiu"
+        ],
+        "futur": [
+          "traduirai",
+          "traduiras",
+          "traduira",
+          "traduirons",
+          "traduirez",
+          "traduiront"
+        ]
+      }
+    },
+    {
+      "verbe": "craindre",
+      "conjugaisons": {
+        "present": [
+          "crainds",
+          "crainds",
+          "craind",
+          "craindons",
+          "craindez",
+          "craindent"
+        ],
+        "passe": [
+          "ai craindu",
+          "as craindu",
+          "a craindu",
+          "avons craindu",
+          "avez craindu",
+          "ont craindu"
+        ],
+        "futur": [
+          "craindrai",
+          "craindras",
+          "craindra",
+          "craindrons",
+          "craindrez",
+          "craindront"
+        ]
+      }
+    },
+    {
+      "verbe": "éteindre",
+      "conjugaisons": {
+        "present": [
+          "éteinds",
+          "éteinds",
+          "éteind",
+          "éteindons",
+          "éteindez",
+          "éteindent"
+        ],
+        "passe": [
+          "ai éteindu",
+          "as éteindu",
+          "a éteindu",
+          "avons éteindu",
+          "avez éteindu",
+          "ont éteindu"
+        ],
+        "futur": [
+          "éteindrai",
+          "éteindras",
+          "éteindra",
+          "éteindrons",
+          "éteindrez",
+          "éteindront"
+        ]
+      }
+    },
+    {
+      "verbe": "joindre",
+      "conjugaisons": {
+        "present": [
+          "joinds",
+          "joinds",
+          "joind",
+          "joindons",
+          "joindez",
+          "joindent"
+        ],
+        "passe": [
+          "ai joindu",
+          "as joindu",
+          "a joindu",
+          "avons joindu",
+          "avez joindu",
+          "ont joindu"
+        ],
+        "futur": [
+          "joindrai",
+          "joindras",
+          "joindra",
+          "joindrons",
+          "joindrez",
+          "joindront"
+        ]
+      }
+    },
+    {
+      "verbe": "peindre",
+      "conjugaisons": {
+        "present": [
+          "peinds",
+          "peinds",
+          "peind",
+          "peindons",
+          "peindez",
+          "peindent"
+        ],
+        "passe": [
+          "ai peindu",
+          "as peindu",
+          "a peindu",
+          "avons peindu",
+          "avez peindu",
+          "ont peindu"
+        ],
+        "futur": [
+          "peindrai",
+          "peindras",
+          "peindra",
+          "peindrons",
+          "peindrez",
+          "peindront"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2596 @@
+{
+  "meta": {
+    "langue": "es",
+    "pronoms": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/nosotras",
+      "vosotros/vosotras",
+      "ellos/ellas/ustedes"
+    ]
+  },
+  "verbes": [
+    {
+      "verbe": "trabajar",
+      "conjugaisons": {
+        "present": [
+          "trabajo",
+          "trabajas",
+          "trabaja",
+          "trabajamos",
+          "trabajáis",
+          "trabajan"
+        ],
+        "past": [
+          "trabajé",
+          "trabajaste",
+          "trabajó",
+          "trabajamos",
+          "trabajasteis",
+          "trabajaron"
+        ],
+        "future": [
+          "trabajaré",
+          "trabajarás",
+          "trabajará",
+          "trabajaremos",
+          "trabajaréis",
+          "trabajarán"
+        ]
+      }
+    },
+    {
+      "verbe": "hablar",
+      "conjugaisons": {
+        "present": [
+          "hablo",
+          "hablas",
+          "habla",
+          "hablamos",
+          "habláis",
+          "hablan"
+        ],
+        "past": [
+          "hablé",
+          "hablaste",
+          "habló",
+          "hablamos",
+          "hablasteis",
+          "hablaron"
+        ],
+        "future": [
+          "hablaré",
+          "hablarás",
+          "hablará",
+          "hablaremos",
+          "hablaréis",
+          "hablarán"
+        ]
+      }
+    },
+    {
+      "verbe": "viajar",
+      "conjugaisons": {
+        "present": [
+          "viajo",
+          "viajas",
+          "viaja",
+          "viajamos",
+          "viajáis",
+          "viajan"
+        ],
+        "past": [
+          "viajé",
+          "viajaste",
+          "viajó",
+          "viajamos",
+          "viajasteis",
+          "viajaron"
+        ],
+        "future": [
+          "viajaré",
+          "viajarás",
+          "viajará",
+          "viajaremos",
+          "viajaréis",
+          "viajarán"
+        ]
+      }
+    },
+    {
+      "verbe": "estudiar",
+      "conjugaisons": {
+        "present": [
+          "estudio",
+          "estudias",
+          "estudia",
+          "estudiamos",
+          "estudiáis",
+          "estudian"
+        ],
+        "past": [
+          "estudié",
+          "estudiaste",
+          "estudió",
+          "estudiamos",
+          "estudiasteis",
+          "estudiaron"
+        ],
+        "future": [
+          "estudiaré",
+          "estudiarás",
+          "estudiará",
+          "estudiaremos",
+          "estudiaréis",
+          "estudiarán"
+        ]
+      }
+    },
+    {
+      "verbe": "comer",
+      "conjugaisons": {
+        "present": [
+          "como",
+          "comes",
+          "come",
+          "comemos",
+          "coméis",
+          "comen"
+        ],
+        "past": [
+          "comí",
+          "comiste",
+          "comió",
+          "comimos",
+          "comisteis",
+          "comieron"
+        ],
+        "future": [
+          "comeré",
+          "comerás",
+          "comerá",
+          "comeremos",
+          "comeréis",
+          "comerán"
+        ]
+      }
+    },
+    {
+      "verbe": "beber",
+      "conjugaisons": {
+        "present": [
+          "bebo",
+          "bebes",
+          "bebe",
+          "bebemos",
+          "bebéis",
+          "beben"
+        ],
+        "past": [
+          "bebí",
+          "bebiste",
+          "bebió",
+          "bebimos",
+          "bebisteis",
+          "bebieron"
+        ],
+        "future": [
+          "beberé",
+          "beberás",
+          "beberá",
+          "beberemos",
+          "beberéis",
+          "beberán"
+        ]
+      }
+    },
+    {
+      "verbe": "aprender",
+      "conjugaisons": {
+        "present": [
+          "aprendo",
+          "aprendes",
+          "aprende",
+          "aprendemos",
+          "aprendéis",
+          "aprenden"
+        ],
+        "past": [
+          "aprendí",
+          "aprendiste",
+          "aprendió",
+          "aprendimos",
+          "aprendisteis",
+          "aprendieron"
+        ],
+        "future": [
+          "aprenderé",
+          "aprenderás",
+          "aprenderá",
+          "aprenderemos",
+          "aprenderéis",
+          "aprenderán"
+        ]
+      }
+    },
+    {
+      "verbe": "vivir",
+      "conjugaisons": {
+        "present": [
+          "vivo",
+          "vives",
+          "vive",
+          "vivimos",
+          "vivís",
+          "viven"
+        ],
+        "past": [
+          "viví",
+          "viviste",
+          "vivió",
+          "vivimos",
+          "vivisteis",
+          "vivieron"
+        ],
+        "future": [
+          "viviré",
+          "vivirás",
+          "vivirá",
+          "viviremos",
+          "viviréis",
+          "vivirán"
+        ]
+      }
+    },
+    {
+      "verbe": "abrir",
+      "conjugaisons": {
+        "present": [
+          "abro",
+          "abres",
+          "abre",
+          "abrimos",
+          "abrís",
+          "abren"
+        ],
+        "past": [
+          "abrí",
+          "abriste",
+          "abrió",
+          "abrimos",
+          "abristeis",
+          "abrieron"
+        ],
+        "future": [
+          "abriré",
+          "abrirás",
+          "abrirá",
+          "abriremos",
+          "abriréis",
+          "abrirán"
+        ]
+      }
+    },
+    {
+      "verbe": "subir",
+      "conjugaisons": {
+        "present": [
+          "subo",
+          "subes",
+          "sube",
+          "subimos",
+          "subís",
+          "suben"
+        ],
+        "past": [
+          "subí",
+          "subiste",
+          "subió",
+          "subimos",
+          "subisteis",
+          "subieron"
+        ],
+        "future": [
+          "subiré",
+          "subirás",
+          "subirá",
+          "subiremos",
+          "subiréis",
+          "subirán"
+        ]
+      }
+    },
+    {
+      "verbe": "correr",
+      "conjugaisons": {
+        "present": [
+          "corro",
+          "corres",
+          "corre",
+          "corremos",
+          "corréis",
+          "corren"
+        ],
+        "past": [
+          "corrí",
+          "corriste",
+          "corrió",
+          "corrimos",
+          "corristeis",
+          "corrieron"
+        ],
+        "future": [
+          "correré",
+          "correrás",
+          "correrá",
+          "correremos",
+          "correréis",
+          "correrán"
+        ]
+      }
+    },
+    {
+      "verbe": "leer",
+      "conjugaisons": {
+        "present": [
+          "leo",
+          "lees",
+          "lee",
+          "leemos",
+          "leéis",
+          "leen"
+        ],
+        "past": [
+          "leí",
+          "leiste",
+          "leió",
+          "leimos",
+          "leisteis",
+          "leieron"
+        ],
+        "future": [
+          "leeré",
+          "leerás",
+          "leerá",
+          "leeremos",
+          "leeréis",
+          "leerán"
+        ]
+      }
+    },
+    {
+      "verbe": "nadar",
+      "conjugaisons": {
+        "present": [
+          "nado",
+          "nadas",
+          "nada",
+          "nadamos",
+          "nadáis",
+          "nadan"
+        ],
+        "past": [
+          "nadé",
+          "nadaste",
+          "nadó",
+          "nadamos",
+          "nadasteis",
+          "nadaron"
+        ],
+        "future": [
+          "nadaré",
+          "nadarás",
+          "nadará",
+          "nadaremos",
+          "nadaréis",
+          "nadarán"
+        ]
+      }
+    },
+    {
+      "verbe": "cantar",
+      "conjugaisons": {
+        "present": [
+          "canto",
+          "cantas",
+          "canta",
+          "cantamos",
+          "cantáis",
+          "cantan"
+        ],
+        "past": [
+          "canté",
+          "cantaste",
+          "cantó",
+          "cantamos",
+          "cantasteis",
+          "cantaron"
+        ],
+        "future": [
+          "cantaré",
+          "cantarás",
+          "cantará",
+          "cantaremos",
+          "cantaréis",
+          "cantarán"
+        ]
+      }
+    },
+    {
+      "verbe": "bailar",
+      "conjugaisons": {
+        "present": [
+          "bailo",
+          "bailas",
+          "baila",
+          "bailamos",
+          "bailáis",
+          "bailan"
+        ],
+        "past": [
+          "bailé",
+          "bailaste",
+          "bailó",
+          "bailamos",
+          "bailasteis",
+          "bailaron"
+        ],
+        "future": [
+          "bailaré",
+          "bailarás",
+          "bailará",
+          "bailaremos",
+          "bailaréis",
+          "bailarán"
+        ]
+      }
+    },
+    {
+      "verbe": "escuchar",
+      "conjugaisons": {
+        "present": [
+          "escucho",
+          "escuchas",
+          "escucha",
+          "escuchamos",
+          "escucháis",
+          "escuchan"
+        ],
+        "past": [
+          "escuché",
+          "escuchaste",
+          "escuchó",
+          "escuchamos",
+          "escuchasteis",
+          "escucharon"
+        ],
+        "future": [
+          "escucharé",
+          "escucharás",
+          "escuchará",
+          "escucharemos",
+          "escucharéis",
+          "escucharán"
+        ]
+      }
+    },
+    {
+      "verbe": "caminar",
+      "conjugaisons": {
+        "present": [
+          "camino",
+          "caminas",
+          "camina",
+          "caminamos",
+          "camináis",
+          "caminan"
+        ],
+        "past": [
+          "caminé",
+          "caminaste",
+          "caminó",
+          "caminamos",
+          "caminasteis",
+          "caminaron"
+        ],
+        "future": [
+          "caminaré",
+          "caminarás",
+          "caminará",
+          "caminaremos",
+          "caminaréis",
+          "caminarán"
+        ]
+      }
+    },
+    {
+      "verbe": "cocinar",
+      "conjugaisons": {
+        "present": [
+          "cocino",
+          "cocinas",
+          "cocina",
+          "cocinamos",
+          "cocináis",
+          "cocinan"
+        ],
+        "past": [
+          "cociné",
+          "cocinaste",
+          "cocinó",
+          "cocinamos",
+          "cocinasteis",
+          "cocinaron"
+        ],
+        "future": [
+          "cocinaré",
+          "cocinarás",
+          "cocinará",
+          "cocinaremos",
+          "cocinaréis",
+          "cocinarán"
+        ]
+      }
+    },
+    {
+      "verbe": "descansar",
+      "conjugaisons": {
+        "present": [
+          "descanso",
+          "descansas",
+          "descansa",
+          "descansamos",
+          "descansáis",
+          "descansan"
+        ],
+        "past": [
+          "descansé",
+          "descansaste",
+          "descansó",
+          "descansamos",
+          "descansasteis",
+          "descansaron"
+        ],
+        "future": [
+          "descansaré",
+          "descansarás",
+          "descansará",
+          "descansaremos",
+          "descansaréis",
+          "descansarán"
+        ]
+      }
+    },
+    {
+      "verbe": "comprar",
+      "conjugaisons": {
+        "present": [
+          "compro",
+          "compras",
+          "compra",
+          "compramos",
+          "compráis",
+          "compran"
+        ],
+        "past": [
+          "compré",
+          "compraste",
+          "compró",
+          "compramos",
+          "comprasteis",
+          "compraron"
+        ],
+        "future": [
+          "compraré",
+          "comprarás",
+          "comprará",
+          "compraremos",
+          "compraréis",
+          "comprarán"
+        ]
+      }
+    },
+    {
+      "verbe": "llamar",
+      "conjugaisons": {
+        "present": [
+          "llamo",
+          "llamas",
+          "llama",
+          "llamamos",
+          "llamáis",
+          "llaman"
+        ],
+        "past": [
+          "llamé",
+          "llamaste",
+          "llamó",
+          "llamamos",
+          "llamasteis",
+          "llamaron"
+        ],
+        "future": [
+          "llamaré",
+          "llamarás",
+          "llamará",
+          "llamaremos",
+          "llamaréis",
+          "llamarán"
+        ]
+      }
+    },
+    {
+      "verbe": "ayudar",
+      "conjugaisons": {
+        "present": [
+          "ayudo",
+          "ayudas",
+          "ayuda",
+          "ayudamos",
+          "ayudáis",
+          "ayudan"
+        ],
+        "past": [
+          "ayudé",
+          "ayudaste",
+          "ayudó",
+          "ayudamos",
+          "ayudasteis",
+          "ayudaron"
+        ],
+        "future": [
+          "ayudaré",
+          "ayudarás",
+          "ayudará",
+          "ayudaremos",
+          "ayudaréis",
+          "ayudarán"
+        ]
+      }
+    },
+    {
+      "verbe": "esperar",
+      "conjugaisons": {
+        "present": [
+          "espero",
+          "esperas",
+          "espera",
+          "esperamos",
+          "esperáis",
+          "esperan"
+        ],
+        "past": [
+          "esperé",
+          "esperaste",
+          "esperó",
+          "esperamos",
+          "esperasteis",
+          "esperaron"
+        ],
+        "future": [
+          "esperaré",
+          "esperarás",
+          "esperará",
+          "esperaremos",
+          "esperaréis",
+          "esperarán"
+        ]
+      }
+    },
+    {
+      "verbe": "cuidar",
+      "conjugaisons": {
+        "present": [
+          "cuido",
+          "cuidas",
+          "cuida",
+          "cuidamos",
+          "cuidáis",
+          "cuidan"
+        ],
+        "past": [
+          "cuidé",
+          "cuidaste",
+          "cuidó",
+          "cuidamos",
+          "cuidasteis",
+          "cuidaron"
+        ],
+        "future": [
+          "cuidaré",
+          "cuidarás",
+          "cuidará",
+          "cuidaremos",
+          "cuidaréis",
+          "cuidarán"
+        ]
+      }
+    },
+    {
+      "verbe": "pintar",
+      "conjugaisons": {
+        "present": [
+          "pinto",
+          "pintas",
+          "pinta",
+          "pintamos",
+          "pintáis",
+          "pintan"
+        ],
+        "past": [
+          "pinté",
+          "pintaste",
+          "pintó",
+          "pintamos",
+          "pintasteis",
+          "pintaron"
+        ],
+        "future": [
+          "pintaré",
+          "pintarás",
+          "pintará",
+          "pintaremos",
+          "pintaréis",
+          "pintarán"
+        ]
+      }
+    },
+    {
+      "verbe": "enseñar",
+      "conjugaisons": {
+        "present": [
+          "enseño",
+          "enseñas",
+          "enseña",
+          "enseñamos",
+          "enseñáis",
+          "enseñan"
+        ],
+        "past": [
+          "enseñé",
+          "enseñaste",
+          "enseñó",
+          "enseñamos",
+          "enseñasteis",
+          "enseñaron"
+        ],
+        "future": [
+          "enseñaré",
+          "enseñarás",
+          "enseñará",
+          "enseñaremos",
+          "enseñaréis",
+          "enseñarán"
+        ]
+      }
+    },
+    {
+      "verbe": "visitar",
+      "conjugaisons": {
+        "present": [
+          "visito",
+          "visitas",
+          "visita",
+          "visitamos",
+          "visitáis",
+          "visitan"
+        ],
+        "past": [
+          "visité",
+          "visitaste",
+          "visitó",
+          "visitamos",
+          "visitasteis",
+          "visitaron"
+        ],
+        "future": [
+          "visitaré",
+          "visitarás",
+          "visitará",
+          "visitaremos",
+          "visitaréis",
+          "visitarán"
+        ]
+      }
+    },
+    {
+      "verbe": "entrar",
+      "conjugaisons": {
+        "present": [
+          "entro",
+          "entras",
+          "entra",
+          "entramos",
+          "entráis",
+          "entran"
+        ],
+        "past": [
+          "entré",
+          "entraste",
+          "entró",
+          "entramos",
+          "entrasteis",
+          "entraron"
+        ],
+        "future": [
+          "entraré",
+          "entrarás",
+          "entrará",
+          "entraremos",
+          "entraréis",
+          "entrarán"
+        ]
+      }
+    },
+    {
+      "verbe": "salir",
+      "conjugaisons": {
+        "present": [
+          "salo",
+          "sales",
+          "sale",
+          "salimos",
+          "salís",
+          "salen"
+        ],
+        "past": [
+          "salí",
+          "saliste",
+          "salió",
+          "salimos",
+          "salisteis",
+          "salieron"
+        ],
+        "future": [
+          "saliré",
+          "salirás",
+          "salirá",
+          "saliremos",
+          "saliréis",
+          "salirán"
+        ]
+      }
+    },
+    {
+      "verbe": "llegar",
+      "conjugaisons": {
+        "present": [
+          "llego",
+          "llegas",
+          "llega",
+          "llegamos",
+          "llegáis",
+          "llegan"
+        ],
+        "past": [
+          "llegé",
+          "llegaste",
+          "llegó",
+          "llegamos",
+          "llegasteis",
+          "llegaron"
+        ],
+        "future": [
+          "llegaré",
+          "llegarás",
+          "llegará",
+          "llegaremos",
+          "llegaréis",
+          "llegarán"
+        ]
+      }
+    },
+    {
+      "verbe": "usar",
+      "conjugaisons": {
+        "present": [
+          "uso",
+          "usas",
+          "usa",
+          "usamos",
+          "usáis",
+          "usan"
+        ],
+        "past": [
+          "usé",
+          "usaste",
+          "usó",
+          "usamos",
+          "usasteis",
+          "usaron"
+        ],
+        "future": [
+          "usaré",
+          "usarás",
+          "usará",
+          "usaremos",
+          "usaréis",
+          "usarán"
+        ]
+      }
+    },
+    {
+      "verbe": "aceptar",
+      "conjugaisons": {
+        "present": [
+          "acepto",
+          "aceptas",
+          "acepta",
+          "aceptamos",
+          "aceptáis",
+          "aceptan"
+        ],
+        "past": [
+          "acepté",
+          "aceptaste",
+          "aceptó",
+          "aceptamos",
+          "aceptasteis",
+          "aceptaron"
+        ],
+        "future": [
+          "aceptaré",
+          "aceptarás",
+          "aceptará",
+          "aceptaremos",
+          "aceptaréis",
+          "aceptarán"
+        ]
+      }
+    },
+    {
+      "verbe": "cambiar",
+      "conjugaisons": {
+        "present": [
+          "cambio",
+          "cambias",
+          "cambia",
+          "cambiamos",
+          "cambiáis",
+          "cambian"
+        ],
+        "past": [
+          "cambié",
+          "cambiaste",
+          "cambió",
+          "cambiamos",
+          "cambiasteis",
+          "cambiaron"
+        ],
+        "future": [
+          "cambiaré",
+          "cambiarás",
+          "cambiará",
+          "cambiaremos",
+          "cambiaréis",
+          "cambiarán"
+        ]
+      }
+    },
+    {
+      "verbe": "necesitar",
+      "conjugaisons": {
+        "present": [
+          "necesito",
+          "necesitas",
+          "necesita",
+          "necesitamos",
+          "necesitáis",
+          "necesitan"
+        ],
+        "past": [
+          "necesité",
+          "necesitaste",
+          "necesitó",
+          "necesitamos",
+          "necesitasteis",
+          "necesitaron"
+        ],
+        "future": [
+          "necesitaré",
+          "necesitarás",
+          "necesitará",
+          "necesitaremos",
+          "necesitaréis",
+          "necesitarán"
+        ]
+      }
+    },
+    {
+      "verbe": "olvidar",
+      "conjugaisons": {
+        "present": [
+          "olvido",
+          "olvidas",
+          "olvida",
+          "olvidamos",
+          "olvidáis",
+          "olvidan"
+        ],
+        "past": [
+          "olvidé",
+          "olvidaste",
+          "olvidó",
+          "olvidamos",
+          "olvidasteis",
+          "olvidaron"
+        ],
+        "future": [
+          "olvidaré",
+          "olvidarás",
+          "olvidará",
+          "olvidaremos",
+          "olvidaréis",
+          "olvidarán"
+        ]
+      }
+    },
+    {
+      "verbe": "terminar",
+      "conjugaisons": {
+        "present": [
+          "termino",
+          "terminas",
+          "termina",
+          "terminamos",
+          "termináis",
+          "terminan"
+        ],
+        "past": [
+          "terminé",
+          "terminaste",
+          "terminó",
+          "terminamos",
+          "terminasteis",
+          "terminaron"
+        ],
+        "future": [
+          "terminaré",
+          "terminarás",
+          "terminará",
+          "terminaremos",
+          "terminaréis",
+          "terminarán"
+        ]
+      }
+    },
+    {
+      "verbe": "preparar",
+      "conjugaisons": {
+        "present": [
+          "preparo",
+          "preparas",
+          "prepara",
+          "preparamos",
+          "preparáis",
+          "preparan"
+        ],
+        "past": [
+          "preparé",
+          "preparaste",
+          "preparó",
+          "preparamos",
+          "preparasteis",
+          "prepararon"
+        ],
+        "future": [
+          "prepararé",
+          "prepararás",
+          "preparará",
+          "prepararemos",
+          "prepararéis",
+          "prepararán"
+        ]
+      }
+    },
+    {
+      "verbe": "ganar",
+      "conjugaisons": {
+        "present": [
+          "gano",
+          "ganas",
+          "gana",
+          "ganamos",
+          "ganáis",
+          "ganan"
+        ],
+        "past": [
+          "gané",
+          "ganaste",
+          "ganó",
+          "ganamos",
+          "ganasteis",
+          "ganaron"
+        ],
+        "future": [
+          "ganaré",
+          "ganarás",
+          "ganará",
+          "ganaremos",
+          "ganaréis",
+          "ganarán"
+        ]
+      }
+    },
+    {
+      "verbe": "luchar",
+      "conjugaisons": {
+        "present": [
+          "lucho",
+          "luchas",
+          "lucha",
+          "luchamos",
+          "lucháis",
+          "luchan"
+        ],
+        "past": [
+          "luché",
+          "luchaste",
+          "luchó",
+          "luchamos",
+          "luchasteis",
+          "lucharon"
+        ],
+        "future": [
+          "lucharé",
+          "lucharás",
+          "luchará",
+          "lucharemos",
+          "lucharéis",
+          "lucharán"
+        ]
+      }
+    },
+    {
+      "verbe": "limpiar",
+      "conjugaisons": {
+        "present": [
+          "limpio",
+          "limpias",
+          "limpia",
+          "limpiamos",
+          "limpiáis",
+          "limpian"
+        ],
+        "past": [
+          "limpié",
+          "limpiaste",
+          "limpió",
+          "limpiamos",
+          "limpiasteis",
+          "limpiaron"
+        ],
+        "future": [
+          "limpiaré",
+          "limpiarás",
+          "limpiará",
+          "limpiaremos",
+          "limpiaréis",
+          "limpiarán"
+        ]
+      }
+    },
+    {
+      "verbe": "romper",
+      "conjugaisons": {
+        "present": [
+          "rompo",
+          "rompes",
+          "rompe",
+          "rompemos",
+          "rompéis",
+          "rompen"
+        ],
+        "past": [
+          "rompí",
+          "rompiste",
+          "rompió",
+          "rompimos",
+          "rompisteis",
+          "rompieron"
+        ],
+        "future": [
+          "romperé",
+          "romperás",
+          "romperá",
+          "romperemos",
+          "romperéis",
+          "romperán"
+        ]
+      }
+    },
+    {
+      "verbe": "vender",
+      "conjugaisons": {
+        "present": [
+          "vendo",
+          "vendes",
+          "vende",
+          "vendemos",
+          "vendéis",
+          "venden"
+        ],
+        "past": [
+          "vendí",
+          "vendiste",
+          "vendió",
+          "vendimos",
+          "vendisteis",
+          "vendieron"
+        ],
+        "future": [
+          "venderé",
+          "venderás",
+          "venderá",
+          "venderemos",
+          "venderéis",
+          "venderán"
+        ]
+      }
+    },
+    {
+      "verbe": "permitir",
+      "conjugaisons": {
+        "present": [
+          "permito",
+          "permites",
+          "permite",
+          "permitimos",
+          "permitís",
+          "permiten"
+        ],
+        "past": [
+          "permití",
+          "permitiste",
+          "permitió",
+          "permitimos",
+          "permitisteis",
+          "permitieron"
+        ],
+        "future": [
+          "permitiré",
+          "permitirás",
+          "permitirá",
+          "permitiremos",
+          "permitiréis",
+          "permitirán"
+        ]
+      }
+    },
+    {
+      "verbe": "decidir",
+      "conjugaisons": {
+        "present": [
+          "decido",
+          "decides",
+          "decide",
+          "decidimos",
+          "decidís",
+          "deciden"
+        ],
+        "past": [
+          "decidí",
+          "decidiste",
+          "decidió",
+          "decidimos",
+          "decidisteis",
+          "decidieron"
+        ],
+        "future": [
+          "decidiré",
+          "decidirás",
+          "decidirá",
+          "decidiremos",
+          "decidiréis",
+          "decidirán"
+        ]
+      }
+    },
+    {
+      "verbe": "recibir",
+      "conjugaisons": {
+        "present": [
+          "recibo",
+          "recibes",
+          "recibe",
+          "recibimos",
+          "recibís",
+          "reciben"
+        ],
+        "past": [
+          "recibí",
+          "recibiste",
+          "recibió",
+          "recibimos",
+          "recibisteis",
+          "recibieron"
+        ],
+        "future": [
+          "recibiré",
+          "recibirás",
+          "recibirá",
+          "recibiremos",
+          "recibiréis",
+          "recibirán"
+        ]
+      }
+    },
+    {
+      "verbe": "asistir",
+      "conjugaisons": {
+        "present": [
+          "asisto",
+          "asistes",
+          "asiste",
+          "asistimos",
+          "asistís",
+          "asisten"
+        ],
+        "past": [
+          "asistí",
+          "asististe",
+          "asistió",
+          "asistimos",
+          "asististeis",
+          "asistieron"
+        ],
+        "future": [
+          "asistiré",
+          "asistirás",
+          "asistirá",
+          "asistiremos",
+          "asistiréis",
+          "asistirán"
+        ]
+      }
+    },
+    {
+      "verbe": "cubrir",
+      "conjugaisons": {
+        "present": [
+          "cubro",
+          "cubres",
+          "cubre",
+          "cubrimos",
+          "cubrís",
+          "cubren"
+        ],
+        "past": [
+          "cubrí",
+          "cubriste",
+          "cubrió",
+          "cubrimos",
+          "cubristeis",
+          "cubrieron"
+        ],
+        "future": [
+          "cubriré",
+          "cubrirás",
+          "cubrirá",
+          "cubriremos",
+          "cubriréis",
+          "cubrirán"
+        ]
+      }
+    },
+    {
+      "verbe": "existir",
+      "conjugaisons": {
+        "present": [
+          "existo",
+          "existes",
+          "existe",
+          "existimos",
+          "existís",
+          "existen"
+        ],
+        "past": [
+          "existí",
+          "exististe",
+          "existió",
+          "existimos",
+          "exististeis",
+          "existieron"
+        ],
+        "future": [
+          "existiré",
+          "existirás",
+          "existirá",
+          "existiremos",
+          "existiréis",
+          "existirán"
+        ]
+      }
+    },
+    {
+      "verbe": "insistir",
+      "conjugaisons": {
+        "present": [
+          "insisto",
+          "insistes",
+          "insiste",
+          "insistimos",
+          "insistís",
+          "insisten"
+        ],
+        "past": [
+          "insistí",
+          "insististe",
+          "insistió",
+          "insistimos",
+          "insististeis",
+          "insistieron"
+        ],
+        "future": [
+          "insistiré",
+          "insistirás",
+          "insistirá",
+          "insistiremos",
+          "insistiréis",
+          "insistirán"
+        ]
+      }
+    },
+    {
+      "verbe": "sufrir",
+      "conjugaisons": {
+        "present": [
+          "sufro",
+          "sufres",
+          "sufre",
+          "sufrimos",
+          "sufrís",
+          "sufren"
+        ],
+        "past": [
+          "sufrí",
+          "sufriste",
+          "sufrió",
+          "sufrimos",
+          "sufristeis",
+          "sufrieron"
+        ],
+        "future": [
+          "sufriré",
+          "sufrirás",
+          "sufrirá",
+          "sufriremos",
+          "sufriréis",
+          "sufrirán"
+        ]
+      }
+    },
+    {
+      "verbe": "ser",
+      "conjugaisons": {
+        "present": [
+          "soy",
+          "eres",
+          "es",
+          "somos",
+          "sois",
+          "son"
+        ],
+        "past": [
+          "fui",
+          "fuiste",
+          "fue",
+          "fuimos",
+          "fuisteis",
+          "fueron"
+        ],
+        "future": [
+          "seré",
+          "serás",
+          "será",
+          "seremos",
+          "seréis",
+          "serán"
+        ]
+      }
+    },
+    {
+      "verbe": "estar",
+      "conjugaisons": {
+        "present": [
+          "estoy",
+          "estás",
+          "está",
+          "estamos",
+          "estáis",
+          "están"
+        ],
+        "past": [
+          "estuve",
+          "estuviste",
+          "estuvo",
+          "estuvimos",
+          "estuvisteis",
+          "estuvieron"
+        ],
+        "future": [
+          "estaré",
+          "estarás",
+          "estará",
+          "estaremos",
+          "estaréis",
+          "estarán"
+        ]
+      }
+    },
+    {
+      "verbe": "tener",
+      "conjugaisons": {
+        "present": [
+          "tengo",
+          "tienes",
+          "tiene",
+          "tenemos",
+          "tenéis",
+          "tienen"
+        ],
+        "past": [
+          "tuve",
+          "tuviste",
+          "tuvo",
+          "tuvimos",
+          "tuvisteis",
+          "tuvieron"
+        ],
+        "future": [
+          "tendré",
+          "tendrás",
+          "tendrá",
+          "tendremos",
+          "tendréis",
+          "tendrán"
+        ]
+      }
+    },
+    {
+      "verbe": "hacer",
+      "conjugaisons": {
+        "present": [
+          "hago",
+          "haces",
+          "hace",
+          "hacemos",
+          "hacéis",
+          "hacen"
+        ],
+        "past": [
+          "hice",
+          "hiciste",
+          "hizo",
+          "hicimos",
+          "hicisteis",
+          "hicieron"
+        ],
+        "future": [
+          "haré",
+          "harás",
+          "hará",
+          "haremos",
+          "haréis",
+          "harán"
+        ]
+      }
+    },
+    {
+      "verbe": "ir",
+      "conjugaisons": {
+        "present": [
+          "voy",
+          "vas",
+          "va",
+          "vamos",
+          "vais",
+          "van"
+        ],
+        "past": [
+          "fui",
+          "fuiste",
+          "fue",
+          "fuimos",
+          "fuisteis",
+          "fueron"
+        ],
+        "future": [
+          "iré",
+          "irás",
+          "irá",
+          "iremos",
+          "iréis",
+          "irán"
+        ]
+      }
+    },
+    {
+      "verbe": "venir",
+      "conjugaisons": {
+        "present": [
+          "vengo",
+          "vienes",
+          "viene",
+          "venimos",
+          "venís",
+          "vienen"
+        ],
+        "past": [
+          "vine",
+          "viniste",
+          "vino",
+          "vinimos",
+          "vinisteis",
+          "vinieron"
+        ],
+        "future": [
+          "vendré",
+          "vendrás",
+          "vendrá",
+          "vendremos",
+          "vendréis",
+          "vendrán"
+        ]
+      }
+    },
+    {
+      "verbe": "poder",
+      "conjugaisons": {
+        "present": [
+          "podo",
+          "podes",
+          "pode",
+          "podemos",
+          "podéis",
+          "poden"
+        ],
+        "past": [
+          "podí",
+          "podiste",
+          "podió",
+          "podimos",
+          "podisteis",
+          "podieron"
+        ],
+        "future": [
+          "poderé",
+          "poderás",
+          "poderá",
+          "poderemos",
+          "poderéis",
+          "poderán"
+        ]
+      }
+    },
+    {
+      "verbe": "poner",
+      "conjugaisons": {
+        "present": [
+          "pono",
+          "pones",
+          "pone",
+          "ponemos",
+          "ponéis",
+          "ponen"
+        ],
+        "past": [
+          "poní",
+          "poniste",
+          "ponió",
+          "ponimos",
+          "ponisteis",
+          "ponieron"
+        ],
+        "future": [
+          "poneré",
+          "ponerás",
+          "ponerá",
+          "poneremos",
+          "poneréis",
+          "ponerán"
+        ]
+      }
+    },
+    {
+      "verbe": "decir",
+      "conjugaisons": {
+        "present": [
+          "deco",
+          "deces",
+          "dece",
+          "decimos",
+          "decís",
+          "decen"
+        ],
+        "past": [
+          "decí",
+          "deciste",
+          "deció",
+          "decimos",
+          "decisteis",
+          "decieron"
+        ],
+        "future": [
+          "deciré",
+          "decirás",
+          "decirá",
+          "deciremos",
+          "deciréis",
+          "decirán"
+        ]
+      }
+    },
+    {
+      "verbe": "ver",
+      "conjugaisons": {
+        "present": [
+          "vo",
+          "ves",
+          "ve",
+          "vemos",
+          "véis",
+          "ven"
+        ],
+        "past": [
+          "ví",
+          "viste",
+          "vió",
+          "vimos",
+          "visteis",
+          "vieron"
+        ],
+        "future": [
+          "veré",
+          "verás",
+          "verá",
+          "veremos",
+          "veréis",
+          "verán"
+        ]
+      }
+    },
+    {
+      "verbe": "dar",
+      "conjugaisons": {
+        "present": [
+          "do",
+          "das",
+          "da",
+          "damos",
+          "dáis",
+          "dan"
+        ],
+        "past": [
+          "dé",
+          "daste",
+          "dó",
+          "damos",
+          "dasteis",
+          "daron"
+        ],
+        "future": [
+          "daré",
+          "darás",
+          "dará",
+          "daremos",
+          "daréis",
+          "darán"
+        ]
+      }
+    },
+    {
+      "verbe": "saber",
+      "conjugaisons": {
+        "present": [
+          "sabo",
+          "sabes",
+          "sabe",
+          "sabemos",
+          "sabéis",
+          "saben"
+        ],
+        "past": [
+          "sabí",
+          "sabiste",
+          "sabió",
+          "sabimos",
+          "sabisteis",
+          "sabieron"
+        ],
+        "future": [
+          "saberé",
+          "saberás",
+          "saberá",
+          "saberemos",
+          "saberéis",
+          "saberán"
+        ]
+      }
+    },
+    {
+      "verbe": "querer",
+      "conjugaisons": {
+        "present": [
+          "quero",
+          "queres",
+          "quere",
+          "queremos",
+          "queréis",
+          "queren"
+        ],
+        "past": [
+          "querí",
+          "queriste",
+          "querió",
+          "querimos",
+          "queristeis",
+          "querieron"
+        ],
+        "future": [
+          "quereré",
+          "quererás",
+          "quererá",
+          "quereremos",
+          "quereréis",
+          "quererán"
+        ]
+      }
+    },
+    {
+      "verbe": "empezar",
+      "conjugaisons": {
+        "present": [
+          "empezo",
+          "empezas",
+          "empeza",
+          "empezamos",
+          "empezáis",
+          "empezan"
+        ],
+        "past": [
+          "empezé",
+          "empezaste",
+          "empezó",
+          "empezamos",
+          "empezasteis",
+          "empezaron"
+        ],
+        "future": [
+          "empezaré",
+          "empezarás",
+          "empezará",
+          "empezaremos",
+          "empezaréis",
+          "empezarán"
+        ]
+      }
+    },
+    {
+      "verbe": "pensar",
+      "conjugaisons": {
+        "present": [
+          "penso",
+          "pensas",
+          "pensa",
+          "pensamos",
+          "pensáis",
+          "pensan"
+        ],
+        "past": [
+          "pensé",
+          "pensaste",
+          "pensó",
+          "pensamos",
+          "pensasteis",
+          "pensaron"
+        ],
+        "future": [
+          "pensaré",
+          "pensarás",
+          "pensará",
+          "pensaremos",
+          "pensaréis",
+          "pensarán"
+        ]
+      }
+    },
+    {
+      "verbe": "sentir",
+      "conjugaisons": {
+        "present": [
+          "sento",
+          "sentes",
+          "sente",
+          "sentimos",
+          "sentís",
+          "senten"
+        ],
+        "past": [
+          "sentí",
+          "sentiste",
+          "sentió",
+          "sentimos",
+          "sentisteis",
+          "sentieron"
+        ],
+        "future": [
+          "sentiré",
+          "sentirás",
+          "sentirá",
+          "sentiremos",
+          "sentiréis",
+          "sentirán"
+        ]
+      }
+    },
+    {
+      "verbe": "dormir",
+      "conjugaisons": {
+        "present": [
+          "dormo",
+          "dormes",
+          "dorme",
+          "dormimos",
+          "dormís",
+          "dormen"
+        ],
+        "past": [
+          "dormí",
+          "dormiste",
+          "dormió",
+          "dormimos",
+          "dormisteis",
+          "dormieron"
+        ],
+        "future": [
+          "dormiré",
+          "dormirás",
+          "dormirá",
+          "dormiremos",
+          "dormiréis",
+          "dormirán"
+        ]
+      }
+    },
+    {
+      "verbe": "jugar",
+      "conjugaisons": {
+        "present": [
+          "jugo",
+          "jugas",
+          "juga",
+          "jugamos",
+          "jugáis",
+          "jugan"
+        ],
+        "past": [
+          "jugé",
+          "jugaste",
+          "jugó",
+          "jugamos",
+          "jugasteis",
+          "jugaron"
+        ],
+        "future": [
+          "jugaré",
+          "jugarás",
+          "jugará",
+          "jugaremos",
+          "jugaréis",
+          "jugarán"
+        ]
+      }
+    },
+    {
+      "verbe": "pedir",
+      "conjugaisons": {
+        "present": [
+          "pedo",
+          "pedes",
+          "pede",
+          "pedimos",
+          "pedís",
+          "peden"
+        ],
+        "past": [
+          "pedí",
+          "pediste",
+          "pedió",
+          "pedimos",
+          "pedisteis",
+          "pedieron"
+        ],
+        "future": [
+          "pediré",
+          "pedirás",
+          "pedirá",
+          "pediremos",
+          "pediréis",
+          "pedirán"
+        ]
+      }
+    },
+    {
+      "verbe": "seguir",
+      "conjugaisons": {
+        "present": [
+          "seguo",
+          "segues",
+          "segue",
+          "seguimos",
+          "seguís",
+          "seguen"
+        ],
+        "past": [
+          "seguí",
+          "seguiste",
+          "seguió",
+          "seguimos",
+          "seguisteis",
+          "seguieron"
+        ],
+        "future": [
+          "seguiré",
+          "seguirás",
+          "seguirá",
+          "seguiremos",
+          "seguiréis",
+          "seguirán"
+        ]
+      }
+    },
+    {
+      "verbe": "conducir",
+      "conjugaisons": {
+        "present": [
+          "conduco",
+          "conduces",
+          "conduce",
+          "conducimos",
+          "conducís",
+          "conducen"
+        ],
+        "past": [
+          "conducí",
+          "conduciste",
+          "condució",
+          "conducimos",
+          "conducisteis",
+          "conducieron"
+        ],
+        "future": [
+          "conduciré",
+          "conducirás",
+          "conducirá",
+          "conduciremos",
+          "conduciréis",
+          "conducirán"
+        ]
+      }
+    },
+    {
+      "verbe": "traer",
+      "conjugaisons": {
+        "present": [
+          "trao",
+          "traes",
+          "trae",
+          "traemos",
+          "traéis",
+          "traen"
+        ],
+        "past": [
+          "traí",
+          "traiste",
+          "traió",
+          "traimos",
+          "traisteis",
+          "traieron"
+        ],
+        "future": [
+          "traeré",
+          "traerás",
+          "traerá",
+          "traeremos",
+          "traeréis",
+          "traerán"
+        ]
+      }
+    },
+    {
+      "verbe": "traducir",
+      "conjugaisons": {
+        "present": [
+          "traduco",
+          "traduces",
+          "traduce",
+          "traducimos",
+          "traducís",
+          "traducen"
+        ],
+        "past": [
+          "traducí",
+          "traduciste",
+          "tradució",
+          "traducimos",
+          "traducisteis",
+          "traducieron"
+        ],
+        "future": [
+          "traduciré",
+          "traducirás",
+          "traducirá",
+          "traduciremos",
+          "traduciréis",
+          "traducirán"
+        ]
+      }
+    },
+    {
+      "verbe": "construir",
+      "conjugaisons": {
+        "present": [
+          "construo",
+          "construes",
+          "construe",
+          "construimos",
+          "construís",
+          "construen"
+        ],
+        "past": [
+          "construí",
+          "construiste",
+          "construió",
+          "construimos",
+          "construisteis",
+          "construieron"
+        ],
+        "future": [
+          "construiré",
+          "construirás",
+          "construirá",
+          "construiremos",
+          "construiréis",
+          "construirán"
+        ]
+      }
+    },
+    {
+      "verbe": "destruir",
+      "conjugaisons": {
+        "present": [
+          "destruo",
+          "destrues",
+          "destrue",
+          "destruimos",
+          "destruís",
+          "destruen"
+        ],
+        "past": [
+          "destruí",
+          "destruiste",
+          "destruió",
+          "destruimos",
+          "destruisteis",
+          "destruieron"
+        ],
+        "future": [
+          "destruiré",
+          "destruirás",
+          "destruirá",
+          "destruiremos",
+          "destruiréis",
+          "destruirán"
+        ]
+      }
+    },
+    {
+      "verbe": "huir",
+      "conjugaisons": {
+        "present": [
+          "huo",
+          "hues",
+          "hue",
+          "huimos",
+          "huís",
+          "huen"
+        ],
+        "past": [
+          "huí",
+          "huiste",
+          "huió",
+          "huimos",
+          "huisteis",
+          "huieron"
+        ],
+        "future": [
+          "huiré",
+          "huirás",
+          "huirá",
+          "huiremos",
+          "huiréis",
+          "huirán"
+        ]
+      }
+    },
+    {
+      "verbe": "oir",
+      "conjugaisons": {
+        "present": [
+          "oo",
+          "oes",
+          "oe",
+          "oimos",
+          "oís",
+          "oen"
+        ],
+        "past": [
+          "oí",
+          "oiste",
+          "oió",
+          "oimos",
+          "oisteis",
+          "oieron"
+        ],
+        "future": [
+          "oiré",
+          "oirás",
+          "oirá",
+          "oiremos",
+          "oiréis",
+          "oirán"
+        ]
+      }
+    },
+    {
+      "verbe": "caer",
+      "conjugaisons": {
+        "present": [
+          "cao",
+          "caes",
+          "cae",
+          "caemos",
+          "caéis",
+          "caen"
+        ],
+        "past": [
+          "caí",
+          "caiste",
+          "caió",
+          "caimos",
+          "caisteis",
+          "caieron"
+        ],
+        "future": [
+          "caeré",
+          "caerás",
+          "caerá",
+          "caeremos",
+          "caeréis",
+          "caerán"
+        ]
+      }
+    },
+    {
+      "verbe": "andar",
+      "conjugaisons": {
+        "present": [
+          "ando",
+          "andas",
+          "anda",
+          "andamos",
+          "andáis",
+          "andan"
+        ],
+        "past": [
+          "andé",
+          "andaste",
+          "andó",
+          "andamos",
+          "andasteis",
+          "andaron"
+        ],
+        "future": [
+          "andaré",
+          "andarás",
+          "andará",
+          "andaremos",
+          "andaréis",
+          "andarán"
+        ]
+      }
+    },
+    {
+      "verbe": "haber",
+      "conjugaisons": {
+        "present": [
+          "habo",
+          "habes",
+          "habe",
+          "habemos",
+          "habéis",
+          "haben"
+        ],
+        "past": [
+          "habí",
+          "habiste",
+          "habió",
+          "habimos",
+          "habisteis",
+          "habieron"
+        ],
+        "future": [
+          "haberé",
+          "haberás",
+          "haberá",
+          "haberemos",
+          "haberéis",
+          "haberán"
+        ]
+      }
+    },
+    {
+      "verbe": "mantener",
+      "conjugaisons": {
+        "present": [
+          "manteno",
+          "mantenes",
+          "mantene",
+          "mantenemos",
+          "mantenéis",
+          "mantenen"
+        ],
+        "past": [
+          "mantení",
+          "manteniste",
+          "mantenió",
+          "mantenimos",
+          "mantenisteis",
+          "mantenieron"
+        ],
+        "future": [
+          "manteneré",
+          "mantenerás",
+          "mantenerá",
+          "manteneremos",
+          "manteneréis",
+          "mantenerán"
+        ]
+      }
+    },
+    {
+      "verbe": "morir",
+      "conjugaisons": {
+        "present": [
+          "moro",
+          "mores",
+          "more",
+          "morimos",
+          "morís",
+          "moren"
+        ],
+        "past": [
+          "morí",
+          "moriste",
+          "morió",
+          "morimos",
+          "moristeis",
+          "morieron"
+        ],
+        "future": [
+          "moriré",
+          "morirás",
+          "morirá",
+          "moriremos",
+          "moriréis",
+          "morirán"
+        ]
+      }
+    },
+    {
+      "verbe": "preferir",
+      "conjugaisons": {
+        "present": [
+          "prefero",
+          "preferes",
+          "prefere",
+          "preferimos",
+          "preferís",
+          "preferen"
+        ],
+        "past": [
+          "preferí",
+          "preferiste",
+          "preferió",
+          "preferimos",
+          "preferisteis",
+          "preferieron"
+        ],
+        "future": [
+          "preferiré",
+          "preferirás",
+          "preferirá",
+          "preferiremos",
+          "preferiréis",
+          "preferirán"
+        ]
+      }
+    },
+    {
+      "verbe": "producir",
+      "conjugaisons": {
+        "present": [
+          "produco",
+          "produces",
+          "produce",
+          "producimos",
+          "producís",
+          "producen"
+        ],
+        "past": [
+          "producí",
+          "produciste",
+          "produció",
+          "producimos",
+          "producisteis",
+          "producieron"
+        ],
+        "future": [
+          "produciré",
+          "producirás",
+          "producirá",
+          "produciremos",
+          "produciréis",
+          "producirán"
+        ]
+      }
+    },
+    {
+      "verbe": "reír",
+      "conjugaisons": {
+        "present": [
+          "produco",
+          "produces",
+          "produce",
+          "producimos",
+          "producís",
+          "producen"
+        ],
+        "past": [
+          "producí",
+          "produciste",
+          "produció",
+          "producimos",
+          "producisteis",
+          "producieron"
+        ],
+        "future": [
+          "produciré",
+          "producirás",
+          "producirá",
+          "produciremos",
+          "produciréis",
+          "producirán"
+        ]
+      }
+    },
+    {
+      "verbe": "servir",
+      "conjugaisons": {
+        "present": [
+          "servo",
+          "serves",
+          "serve",
+          "servimos",
+          "servís",
+          "serven"
+        ],
+        "past": [
+          "serví",
+          "serviste",
+          "servió",
+          "servimos",
+          "servisteis",
+          "servieron"
+        ],
+        "future": [
+          "serviré",
+          "servirás",
+          "servirá",
+          "serviremos",
+          "serviréis",
+          "servirán"
+        ]
+      }
+    },
+    {
+      "verbe": "vestir",
+      "conjugaisons": {
+        "present": [
+          "vesto",
+          "vestes",
+          "veste",
+          "vestimos",
+          "vestís",
+          "vesten"
+        ],
+        "past": [
+          "vestí",
+          "vestiste",
+          "vestió",
+          "vestimos",
+          "vestisteis",
+          "vestieron"
+        ],
+        "future": [
+          "vestiré",
+          "vestirás",
+          "vestirá",
+          "vestiremos",
+          "vestiréis",
+          "vestirán"
+        ]
+      }
+    },
+    {
+      "verbe": "conocer",
+      "conjugaisons": {
+        "present": [
+          "conoco",
+          "conoces",
+          "conoce",
+          "conocemos",
+          "conocéis",
+          "conocen"
+        ],
+        "past": [
+          "conocí",
+          "conociste",
+          "conoció",
+          "conocimos",
+          "conocisteis",
+          "conocieron"
+        ],
+        "future": [
+          "conoceré",
+          "conocerás",
+          "conocerá",
+          "conoceremos",
+          "conoceréis",
+          "conocerán"
+        ]
+      }
+    },
+    {
+      "verbe": "perder",
+      "conjugaisons": {
+        "present": [
+          "perdo",
+          "perdes",
+          "perde",
+          "perdemos",
+          "perdéis",
+          "perden"
+        ],
+        "past": [
+          "perdí",
+          "perdiste",
+          "perdió",
+          "perdimos",
+          "perdisteis",
+          "perdieron"
+        ],
+        "future": [
+          "perderé",
+          "perderás",
+          "perderá",
+          "perderemos",
+          "perderéis",
+          "perderán"
+        ]
+      }
+    }
+  ]
+}
